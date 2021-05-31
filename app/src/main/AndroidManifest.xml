@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.posadtic">
+    
+    <uses-permission android:name="android.permission.INTERNET"></uses-permission>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.PosadTIC"
+        android:usesCleartextTraffic="true">
+        
+        <activity android:name=".Dashboard" />
+        <activity android:name=".hotels.HotelView" />
+        <activity android:name=".hotels.ApartmentsAll" />
+        <activity android:name=".hotels.HostelsAll" />
+        <activity android:name=".hotels.GuesthousesAll" />
+        <activity android:name=".Events" />
+        <activity android:name=".Weather" />
+        <activity android:name=".hotels.Hotel1" />
+        <activity android:name=".hotels.Hotel2" />
+        <activity android:name=".hotels.Hotel3" />
+        <activity android:name=".hotels.Hotel4" />
+        <activity android:name=".hotels.Hotel5" />
+        <activity android:name=".hotels.Hotel6" />
+        <activity android:name=".hotels.Hotel7" />
+        <activity android:name=".hotels.Hotel8" />
+        <activity android:name=".hotels.Hotel9" />
+        <activity android:name=".hotels.Hotel10" />
+        <activity android:name=".hotels.Hotel11" />
+        <activity android:name=".hotels.Hotel12" />
+        <activity android:name=".hotels.Hotel13" />
+        <activity android:name=".hotels.Hotel14" />
+        <activity android:name=".hotels.Hotel15" />
+        <activity android:name=".hotels.Hotel16" />
+        <activity android:name=".hotels.Hotel17" />
+        <activity android:name=".hotels.Hotel18" />
+        <activity android:name=".hotels.Hotel19" />
+        <activity android:name=".hotels.Hotel20" />
+        <activity android:name=".hotels.Hotel21" />
+        <activity android:name=".hotels.Hotel22" />
+        <activity android:name=".hotels.Hotel23" />
+        <activity android:name=".hotels.Hotel24" />
+        <activity android:name=".hotels.Hotel25" />
+        <activity android:name=".hotels.Hotel26" />
+        <activity android:name=".hotels.Hotel27" />
+        <activity android:name=".hotels.Hotel28" />
+        <activity android:name=".hotels.Hotel29" />
+        <activity android:name=".hotels.Hotel30" />
+        <activity android:name=".hotels.Hotel31" />
+        <activity android:name=".hotels.Hotel32" />
+        <activity android:name=".hotels.Hotel33" />
+        <activity android:name=".hotels.Hotel34" />
+        <activity android:name=".hotels.Hotel35" />
+        <activity android:name=".hotels.Hotel36" />
+        <activity android:name=".hotels.Hotel37" />
+        <activity android:name=".hotels.Hotel38" />
+        <activity android:name=".hotels.Hotel39" />
+        <activity android:name=".hotels.Hotel40" />
+        <activity android:name=".hotels.Hotel41" />
+        <activity android:name=".hotels.Hotel42" />
+        <activity android:name=".hotels.Hotel43" />
+
+        <activity android:name=".foods.FoodView" />
+        <activity android:name=".foods.CafeAll" />
+        <activity android:name=".foods.BarsAll" />
+        <activity android:name=".foods.Food1" />
+        <activity android:name=".foods.Food2" />
+        <activity android:name=".foods.Food3" />
+        <activity android:name=".foods.Food4" />
+        <activity android:name=".foods.Food5" />
+        <activity android:name=".foods.Food6" />
+        <activity android:name=".foods.Food7" />
+        <activity android:name=".foods.Food8" />
+        <activity android:name=".foods.Food9" />
+        <activity android:name=".foods.Food10" />
+        <activity android:name=".foods.Food11" />
+        <activity android:name=".foods.Food12" />
+        <activity android:name=".foods.Food13" />
+        <activity android:name=".foods.Food14" />
+        <activity android:name=".foods.Food15" />
+        <activity android:name=".foods.Food17" />
+        <activity android:name=".foods.Food18" />
+        <activity android:name=".foods.Food19" />
+        <activity android:name=".foods.Food20" />
+        <activity android:name=".foods.Food21" />
+        <activity android:name=".foods.Food22" />
+        <activity android:name=".foods.Food23" />
+        <activity android:name=".foods.Food25" />
+        <activity android:name=".foods.Food26" />
+        <activity android:name=".foods.Food30" />
+        <activity android:name=".foods.Food31" />
+        <activity android:name=".foods.Food32" />
+
+
+        <activity android:name=".attract.Attract1" />
+        <activity android:name=".attract.Attract2" />
+        <activity android:name=".attract.Attract3" />
+        <activity android:name=".attract.Attract4" />
+        <activity android:name=".attract.Attract5" />
+        <activity android:name=".attract.Attract6" />
+        <activity android:name=".attract.Attract7" />
+        <activity android:name=".attract.Attract8" />
+        <activity android:name=".attract.Attract9" />
+        <activity android:name=".attract.Attract10" />
+        <activity android:name=".attract.Attract11" />
+        <activity android:name=".attract.Attract12" />
+        <activity android:name=".attract.Attract13" />
+        <activity android:name=".attract.Attract14" />
+        <activity android:name=".attract.Attract15" />
+        <activity android:name=".attract.Attract16" />
+        <activity android:name=".attract.Attract17" />
+        <activity android:name=".attract.Attract18" />
+        <activity android:name=".attract.Attract19" />
+        <activity android:name=".attract.Attract20" />
+        <activity android:name=".attract.Attract21" />
+        <activity android:name=".attract.Attract22" />
+        <activity android:name=".attract.MuseumsAll" />
+        <activity android:name=".attract.LavraAll" />
+        <activity android:name=".attract.ReligionsAll" />
+        <activity android:name=".attract.WalksAll" />
+
+
+        <activity android:name=".common.SplashScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

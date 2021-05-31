@@ -1,0 +1,899 @@
+<resources>
+    <string name="app_name">Posad TIC</string>
+
+    <!--Buttons-->
+    <string name="skip_btn">Skip</string>
+    <string name="next_btn">Next</string>
+    <string name="lets_get_started">LETS GET STARTED</string>
+
+    <!--Strings for Dashboard-->
+    <!--Categories-->
+    <string name="attractions">Attractions</string>
+    <string name="hotels">Popular Hotels</string>
+    <string name="restaurants">Cafe and Restaurants</string>
+    <string name="events">Events</string>
+    <string name="shops">Shops</string>
+    <string name="help">Help to tourists</string>
+    <string name="souvenirs">Where to buy souvenirs</string>
+
+    <!-- Подкатегории -->
+    <string name="view_restaurants">  Restaurants  </string>
+    <string name="view_cafe">  Cafe  </string>
+    <string name="view_bars">  Bars and Pubs  </string>
+
+    <string name="view_lavra">  Lavra  </string>
+    <string name="view_museums">  Museums  </string>
+    <string name="view_religion">  Religion  </string>
+    <string name="view_walking">  Places for walking  </string>
+
+
+    <string name="weather">Weather</string>
+
+    <string name="see_more">see more</string>
+
+
+    <string name="banks">Banks</string>
+    <string name="airports">Airports</string>
+
+
+    <!--Titles and Descriptions-->
+    <string name="featured_locations">All featured Location</string>
+    <string name="featured_locations_description">All the locations that are featured</string>
+    <string name="most_viewed_locations">Most viewed</string>
+    <string name="categories">Categories</string>
+    <string name="view_all">View All</string>
+    <string name="search_text">Search...</string>
+    <string name="title_activity_hotel_view">HotelView</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <!-- Hotel1 -->
+    <string name="hotel_name_1">Posadskiy Hotel</string>
+    <string name="hotel_distance_1">800 m from center</string>
+    <string name="hotel_description_1">This hotel in the heart of Sergiev Posad is located a 5-minute walk from Troitse-Sergiev Lavra. The property was renovated in 2014. Free WiFi is available throughout the entire hotel.\n
+        All rooms at the Posadskiy are air-conditioned and have a flat-screen TV, tea coffee maker, and a private bathroom with a hairdryer and free toiletries. Suites have a spacious seating area with couches and a coffee table.\nA continental breakfast is served every morning.\nWe speak your language!</string>
+    <string name="hotel_link1"><a href="https://hotel-sposad.ru">hotel-sposad.ru</a></string>
+    <string name="hotel_phone_number1"> <a href="tel:+74965424226">+7 496 542-42-26</a></string>
+    <string name="hotel_map_link1"><a href="https://goo.gl/maps/HuV91oYvPLDEN1Ax5">пр. Красной Армии, 171, Сергиев Посад, Московская обл., 141310</a></string>
+
+    <!-- Hotel2 -->
+    <string name="hotel_2_name">Gosudarevs House Hotel</string>
+    <string name="hotel_2_distance">350 m from center</string>
+    <string name="hotel_2_description">Located in Sergiyev Posad, 1.2 mi from Trinity-Sergius Lavra, Gosudarev House Hotel complex Imperial Village provides accommodations with a restaurant, free private parking, a bar.</string>
+    <string name="hotel_2_link"><a href="https://www.imperial-village.ru">imperial-village.ru</a></string>
+    <string name="hotel_2_phone_number"> <a href="tel:+74959951996">+7 495 995 19 96</a></string>
+    <string name="hotel_2_map_link"><a href="https://goo.gl/maps/8EE96tCgr64ncTY47">Ulitsa Mitkina, 14/2, Sergiyev Posad, Moscow Oblast, 141302</a></string>
+
+    <!-- Hotel3 -->
+    <string name="hotel_3_name">Barskiye Polati Hotel</string>
+    <string name="hotel_3_distance">600 m from center</string>
+    <string name="hotel_3_description">Located in Sergiyev Posad, Barskiye Polati Hotel offers free WiFi and free private pakring. \n
+        All rooms are air conditioned and come with a flat-screen TV, fridge and electric kettle. Junior suites feature a seating area. The private bathroom includes free toiletries, slippers and a hairdryer. \n
+        Guests can dine in local cafes that are within a 7-minute walk from the hotel. \n
+        Troitse Sergieva Lavra Church is a 5-minute walk away. \n
+        Barskiye Polati Hotel is 0.9 mi from Sergiyev Posad Train Station and 50 mi from Sheremetyevo International Airport. \n
+        This is our guests favorite part of Sergiyev Posad, according to independent reviews. \n
+        Couples in particular like the location – they rated it 9.3 for a two-person trip. \n
+        We speak your language!</string>
+    <string name="hotel_3_link"><a href="http://www.barskie-polati.ru/">barskie-polati.ru</a></string>
+    <string name="hotel_3_phone_number"> <a href="tel:+74959267365">+7 495 926 73 65</a></string>
+    <string name="hotel_3_map_link"><a href="https://goo.gl/maps/W5ZEQLptKvU85bzP9">Ulitsa Valovaya, 2, Sergiyev Posad, Moscow Oblast, 141302</a></string>
+    <!-- Hotel4 -->
+    <string name="hotel_4_name">The Old Lavry Hotel</string>
+    <string name="hotel_4_distance">300 m from center</string>
+    <string name="hotel_4_description">The old hotel Lavra is located in a 19th century building in the very center of Sergiev Posad. The hotel is located 50 m from the main attraction of the monastery of the Holy Trinity St. Sergius Lavra.\nFree WiFi and free parking are available.\nThe rooms at the Old Hotel Lavra are decorated in a classic style and equipped with wooden furniture. The windows overlook the Trinity-Sergius Lavra, Red Army Avenue or the courtyard of the hotel.\nAll rooms are equipped with a refrigerator, kettle, TV and telephone. A hairdryer and toiletries are provided in each room.\nThere are 2 restaurants - Refectory Chamber and Guest House at the hotel. The restaurants serve local cuisine. The menu includes both lean and light meals. The reception is open 24 hours a day.\nThere is a bus stop right in front of the hotel with connections to other areas of Sergiev Posad. Sergiev Posad Train Station and Central Bus Station can be reached on foot in 10 minutes, or 2 stops by public transport.\nCouples in particular like the location – they rated it 9.9 for a two-person trip.</string>
+    <string name="hotel_4_link"><a href="http://lavrahotel.ru/">lavrahotel.ru</a></string>
+    <string name="hotel_4_phone_number"> <a href="tel:+74965499000">+7 496 549 90 00</a></string>
+    <string name="hotel_4_map_link"><a href="https://goo.gl/maps/kmbVSdCRpevx6abQ7">Prospekt Krasnoy Armii, 133, Sergiyev Posad, Moscow Oblast, 141315</a></string>
+    <!-- Hotel5 -->
+    <string name="hotel_5_name">Tsentralnaya Hotel</string>
+    <string name="hotel_5_distance">300 m from center</string>
+    <string name="hotel_5_description">Located in the historical part of Sergiyev Posad, just a 5-minute walk Trinity Sergius Lavra Monastery, Tsentralnaya Hotel features air-conditioned rooms, free Wi-Fi and a free car park. Belyy Pond is 500 m away.\nThe classic-style rooms offer a fridge, kettle and TV with cable channels. The private bathroom is equipped with a shower and free toiletries.\nContinental breakfast is served every day. A number of cafes, bars and restaurants is a short walk away.\nBoth Sergiyev Posad Train Station and Bus Station are 1 km away. The nearest bus stop is a 5-minute walk away.</string>
+    <string name="hotel_5_link">https://spcentral.ru/<a href="spcentral.ru"></a></string>
+    <string name="hotel_5_phone_number"><a href="tel:+74965478088">+7 496 547 80 88</a></string>
+    <string name="hotel_5_map_link"><a href="https://g.page/SPcentral?share">Ovrazhnyy Pereulok, 2A, Sergiyev Posad, Moscow Oblast, 141300</a></string>
+    <!-- Hotel6 -->
+    <string name="hotel_6_name">Krasnaya Gora Boutique Hotel</string>
+    <string name="hotel_6_distance">550 m from center</string>
+    <string name="hotel_6_description">Situated in Sergiyev Posad and with Trinity-Sergius Lavra reachable within 600 metres, Krasnaya Gora Boutique Hotel features express check-in and check-out, allergy-free rooms, a bar, free WiFi throughout the property and a shared lounge. The property has a garden, as well as a terrace. The accommodation provides evening entertainment and a concierge service.
+        \nAt the hotel, rooms are equipped with a wardrobe and a flat-screen TV. The rooms at Krasnaya Gora Boutique Hotel have air conditioning and a desk.
+        \nA Full English/Irish breakfast is available each morning at the accommodation.
+        \nGuests at Krasnaya Gora Boutique Hotel will be able to enjoy activities in and around Sergiyev Posad, like hiking.</string>
+    <string name="hotel_6_link"><a href="https://mygreenway.com/shop/?gw=pPgIbNm1Ab">mygreenway.com</a></string>
+    <string name="hotel_6_phone_number"> <a href="tel:+79150377777">+7 915 037 77 77</a></string>
+    <string name="hotel_6_map_link"><a href="https://goo.gl/maps/WfuiNdHXxJy9gtvs7"></a>Ul. Kirova, 8Б, Sergiyev Posad, Moscow Oblast, 141315</string>
+    <!-- Hotel7 -->
+    <string name="hotel_7_name">Tsarskaya Derevnya</string>
+    <string name="hotel_7_distance">350 m from center</string>
+    <string name="hotel_7_description">Located in Sergiyev Posad town, this hotel is a 5-minute walk from the Troitse-Sergiyev Monastery. It features air-conditioned rooms and free Wi-Fi. Private parking is offered for free.
+        \nDecorated with elegant furniture, rooms at Imperial Village Hotel come with a TV, fridge and mini-bar. Private bathrooms are fitted with a shower.
+        \nGuests can enjoy Italian, Russian and European cuisine at the on-site restaurant, and relax at the bar.
+        \nSpa center includes a sauna and massage service.
+        \nThe nearest bus stop, providing access around the town, is 300 m from Imperial Village Hotel. Sergiyev Posad Train Station is 2.5 mi away.</string>
+    <string name="hotel_7_link"><a href="http://www.imperial-village.ru/">imperial-village.ru</a></string>
+    <string name="hotel_7_phone_number"> <a href="tel:+74959951996">+7 495 995 19 96</a></string>
+    <string name="hotel_7_map_link"><a href="https://goo.gl/maps/ChMikmVEW3LVKa4v6">Ulitsa Mitkina, 14/2, Sergiyev Posad, Moscow Oblast, 141302</a></string>
+    <!-- Hotel8 -->
+    <string name="hotel_8_name">Park-hotel "Torbeyevo Ozero"</string>
+    <string name="hotel_8_distance">8 km from center</string>
+    <string name="hotel_8_description">Located in Sergiyev Posad, 15 km from Trinity-Sergius Lavra, Торбеево Озеро Сергиев Посад provides accommodation with a restaurant, free private parking, a bar and a garden. This 4-star hotel offers a private beach area, a 24-hour front desk and free WiFi. The hotel features family rooms.
+        \nAll units in the hotel are equipped with a kettle. At Торбеево Озеро Сергиев Посад every room comes with a desk, a flat-screen TV and a private bathroom.
+        \nA continental breakfast is available daily at the accommodation.</string>
+    <string name="hotel_8_link"><a href="http://torbeevo.com/">torbeevo.com</a></string>
+    <string name="hotel_8_phone_number"> <a href="tel:+79168583306">+7 916 858 33 06</a></string>
+    <string name="hotel_8_map_link"><a href="https://g.page/torbeevoozero?share">Bereznyaki, Moscow Oblast, 141357</a></string>
+    <!-- Hotel9 -->
+    <string name="hotel_9_name">Hotel Sergiev</string>
+    <string name="hotel_9_distance">750 m from center</string>
+    <string name="hotel_9_description">Situated in Sergiyev Posad, 1.4 km from Trinity-Sergius Lavra, Hotel Sergiev features accommodation with a shared lounge and free private parking. The inn has family rooms.
+        \nAt the inn, rooms come with a desk, a flat-screen TV and a private bathroom. The rooms at Hotel Sergiev have air conditioning and a wardrobe.
+        \nA continental breakfast is available each morning at the accommodation.
+        \nGuests at Hotel Sergiev will be able to enjoy activities in and around Sergiyev Posad, like hiking.</string>
+    <string name="hotel_9_link"><a href="https://sergievhotel.com/">sergievhotel.com</a></string>
+    <string name="hotel_9_phone_number"> <a href="tel:+79168891881">+7 916 889 18 81</a></string>
+    <string name="hotel_9_map_link"><a href="https://goo.gl/maps/Pawk7JYrWGqt2YW69">Prospekt Krasnoy Armii, 109, Sergiyev Posad, Moscow Oblast, 141303</a></string>
+    <!-- Hotel10 -->
+    <string name="hotel_10_name">Hantri Hotel</string>
+    <string name="hotel_10_distance">900 m from center</string>
+    <string name="hotel_10_description">Offering free private parking, Hantri Hotel is located in Sergiyev Posad, 300 m from Trinity Sergius Lavra. Konny Dvor and St. Savva Storozhevsky spring are a 5-minute walk away.
+        \nThe classic-style rooms have a balcony and cable TV. The private bathrooms offer free toiletries.
+        \nAt Hantri Hotel you will find a bar and a restaurant serving European and Eastern cuisine. Other facilities offered at the property include meeting facilities and an ironing service.</string>
+    <string name="hotel_10_phone_number"> <a href="tel:+74965511718">+7 496 551 17 18</a></string>
+    <string name="hotel_10_map_link"><a href="https://goo.gl/maps/DoXxbhbED24gque16">Ulitsa 1 Udarnoy Armii, 18, Sergiyev Posad, Moscow Oblast, 141310</a></string>
+    <!-- Hotel11-->
+    <string name="hotel_11_name">Hotel on Sergievskaya 6</string>
+    <string name="hotel_11_distance">300 m from center</string>
+    <string name="hotel_11_description">Hotel on Sergievskaya 6 is set in Sergiyev Posad, 450 m from Trinity-Sergius Lavra. All rooms feature a flat-screen TV with satellite channels and a private bathroom. The accommodation provides a 24-hour front desk and free WiFi.</string>
+    <string name="hotel_11_link"><a href="https://mygreenway.com/shop/?gw=pPgIbNm1Ab">mygreenway.com</a></string>
+    <string name="hotel_11_phone_number"> <a href="tel:+79859980307">+7 985 998 03 07</a></string>
+    <string name="hotel_11_map_link"><a href="https://goo.gl/maps/kdHeqUfNc7Z4Ysey6">Sergiyevskaya Ulitsa, 6, Sergiyev Posad, Moscow Oblast, 141300</a></string>
+    <!-- Hotel12-->
+    <string name="hotel_12_name">Uyut Hotel</string>
+    <string name="hotel_12_distance">350 m from center</string>
+    <string name="hotel_12_description">Located a 5-minute walk from The Holy Trinity St. Sergius Lavra in Sergiyev Posad, Uyut Hotel offers free WiFi, lockers and a tour desk.
+        \nThe rooms feature air conditioning, a fridge, hairdryer and flat-screen TV with satellite channels.
+        \nGuests are welcome to eat out in the cafes and restaurants nearby. Room service, grocery delivery and breakfasts in the room are provided upon request.</string>
+    <string name="hotel_12_phone_number"> <a href="tel:+79857776417">+7 985 777 64 17</a></string>
+    <string name="hotel_12_map_link"><a href="https://goo.gl/maps/6235WtXcJQ5Hwp7A9">Ovrazhnyy Pereulok, 5, Sergiyev Posad, Moscow Oblast, 141310</a></string>
+    <!-- Hotel13 -->
+    <string name="hotel_13_name">Russkiy Dvorik Boutique Hotel</string>
+    <string name="hotel_13_distance">200 m from center</string>
+    <string name="hotel_13_description">Located in Sergiyev Posad, a 2-minute walk from the Trinity Lavra of St. Sergius, Russkiy Dvorik Boutique Hotel features free WiFi access and free private parking. The hotel has a terrace and views of the city, and guests can enjoy a drink at the bar.
+        \nIndividually designed, each room features a gramophone with records. All rooms are fitted with air conditioning and a flat-screen TV with satellite channels. Certain units include a seating area where you can relax. Every room has a private bathroom equipped with a bath, heated floors and sound system. For your comfort, you will find bath robes and slippers.
+        \nThere is a 24-hour front desk and hairdresser at the property.</string>
+    <string name="hotel_13_link"><a href="http://www.rus-dvorik.ru/">rus-dvorik.ru</a></string>
+    <string name="hotel_13_phone_number"> <a href="tel:+74965405114">+7 496 540 51 14</a></string>
+    <string name="hotel_13_map_link"><a href="https://goo.gl/maps/LQ6U4KDXep3zDr93A"></a>Prospekt Krasnoy Armii, 134/2, Sergiyev Posad, Moscow Oblast, 141300</string>
+    <!-- Hotel14 -->
+    <string name="hotel_14_name">Boutique Hotel Dubrovskiy</string>
+    <string name="hotel_14_distance">4 km from center</string>
+    <string name="hotel_14_description">Boutique Hotel Dubrovskiy is situated in Sergiyev Posad near the Dubrava Cultural and Educational Centre. Free private parking is available on site.
+        \nBoutique Hotel Dubrovskiy features free WiFi . You will find a 24-hour front desk at the property.
+        \nGuests can use gazebos with BBQ facilities.
+        \nThe Holy Trinity-Saint Sergius Lavra is 7 km away.</string>
+    <string name="hotel_14_phone_number"> <a href="tel:+74965510917">+7 496 551 09 17</a></string>
+    <string name="hotel_14_map_link"><a href="https://goo.gl/maps/JYyNRJ17oH9cFRQY9"> Ulitsa Parkovaya 16, Sergiyev Posad, Moscow Oblast, 141308</a></string>
+    <!-- Hotel15 -->
+    <string name="hotel_15_name">Staryy Gorod</string>
+    <string name="hotel_15_distance">600 m from center</string>
+    <string name="hotel_15_description">Located in the city centre of Sergiev Posad, within a 5-minute walk of Troice-Sergieva Lavra, Старый Город features an on-site restaurant, free Wi-Fi throughout the property, and free private parking.
+        \nEach room here is uniquely decorated in different themes, and come equipped with a TV with satellite channels, air conditioning, a seating area, an electric kettle, and a private bathroom with a shower.
+        \nOther available facilities include a 24-hour front desk and air conditioning.</string>
+    <string name="hotel_15_link"><a href="https://oldtownsp.ru/">oldtownsp.ru</a></string>
+    <string name="hotel_15_phone_number"> <a href="tel:+79165555037">+7 916 555 50 37</a></string>
+    <string name="hotel_15_map_link"><a href="https://goo.gl/maps/E2rKc8pDLWCEapnn7">Prospekt Krasnoy Armii, 158, Sergiyev Posad, Moscow Oblast, 141315</a></string>
+    <!-- Hotel16 -->
+    <string name="hotel_16_name">Camping-motel Blinnaya Gora</string>
+    <string name="hotel_16_distance">250 m from center</string>
+    <string name="hotel_16_description">Set in Sergiyev Posad, Moscow region, Camping-motel Blinnaya Gora is located just 400 m from Trinity-Sergius Lavra. Boasting family rooms, this property also provides guests with a terrace. Free WiFi is available and private parking can be arranged at an extra charge.
+        \nAll guest rooms come with a flat-screen TV with satellite channels, a kettle, a shower, a hairdryer and a desk. With a private bathroom fitted with a bath and free toiletries, rooms at the hotel also have a city view.
+        \nGuests at Hotel Blinnaya Gora will be able to enjoy activities in and around Sergiyev Posad, like hiking.
+        \nThe accommodations can conveniently provide information at the reception to help guests to get around the area.</string>
+    <string name="hotel_16_link"><a href="https://blinnaya-gora.ru/">blinnaya-gora.ru</a></string>
+    <string name="hotel_16_phone_number"> <a href="tel:+79168242401">+7 916 824 24 01</a></string>
+    <string name="hotel_16_map_link"><a href="https://g.page/blinnayagora?share">Voznesenskaya Ulitsa, 15, Sergiyev Posad, Moscow Oblast, 141300</a></string>
+    <!-- Hotel17 -->
+    <string name="hotel_17_name">Aristokrat Hotel</string>
+    <string name="hotel_17_distance">400 m from center</string>
+    <string name="hotel_17_description">This hotel lies in the centre of Sergiyev Posad, just a 10-minute walk from the Trinity Lavra of St. Sergius. A 24-hour front desk and a sauna are featured at Aristokrat Hotel.
+        \nThe bright, classic-style rooms of the hotel have warm-coloured interiors. Each room includes a TV, a refrigerator and a private bathroom.
+        \nAristokrat Restaurant overlooks the Lavra and serves European, Asian and Russian cuisine. A variety of drinks, as well as billiards and karaoke, are offered at Aristokrat Bar.
+        \nThe Sergiyev Posad Observation Deck is just a 10-minute walk from the hotel. The Kovcheg Theatre and the Toy Museum are only 300 m away.</string>
+    <string name="hotel_17_phone_number"> <a href="tel:+74965472594">+7 496 547 25 94</a></string>
+    <string name="hotel_17_map_link"><a href="https://goo.gl/maps/uQbNsAM4E59uL9Bz6">Sergiyevskaya Ulitsa, 1А, Sergiyev Posad, Moscow Oblast, 141300</a></string>
+    <!-- Hotel18 -->
+    <string name="hotel_18_name">Teremok</string>
+    <string name="hotel_18_distance">600 m from center</string>
+    <string name="hotel_18_description">Teremok features rooms in Sergiyev Posad. The property is situated 650 m from Trinity-Sergius Lavra. Free WiFi is available.
+        \nAt the guest house, the rooms are equipped with a wardrobe. Rooms are complete with a private bathroom fitted with a shower, while certain rooms have a seating area. All units in Теремок are equipped with a flat-screen TV and free toiletries.</string>
+    <string name="hotel_18_phone_number"><a href="tel:+79261271721">+7 926 127 17 21</a></string>
+    <string name="hotel_18_map_link"><a href="https://goo.gl/maps/otaNQfhs4M5aea2M7">Ulitsa Vifanskaya, 13, Sergiyev Posad, Moscow Oblast, 141302</a></string>
+    <!-- Hotel19 -->
+    <string name="hotel_19_name">Gostinitsa Rodina</string>
+    <string name="hotel_19_distance">750 m from center</string>
+    <string name="hotel_19_description">Set in Sergiyev Posad, Moscow region region, Гостиница Родина is located 1.3 km from Trinity-Sergius Lavra. The accommodation offers a 24-hour front desk and a shared kitchen for guests.
+        \nThe hotel offers a continental or à la carte breakfast.</string>
+    <string name="hotel_19_phone_number"> <a href="tel:+79263664111">+7 926 366 41 11</a></string>
+    <string name="hotel_19_map_link"><a href="https://goo.gl/maps/ea6T4CLohhnH2of1A">Voznesenskaya Ulitsa, 53, Sergiyev Posad, Moscow Oblast, 141304</a></string>
+    <!-- Hotel20 -->
+    <string name="hotel_20_name">Hotel Kovcheg</string>
+    <string name="hotel_20_distance">2.5 km from center</string>
+    <string name="hotel_20_description">Situated in Sergiyev Posad, 3.1 km from Trinity-Sergius Lavra, Hotel Kovcheg features accommodation with a restaurant, free private parking and a bar. Free WiFi and a 24-hour front desk are available.
+        \nAll rooms in the hotel are fitted with a kettle. At Hotel Kovcheg rooms are equipped with a wardrobe, a flat-screen TV and a private bathroom.</string>
+    <string name="hotel_20_link"><a href="http://www.kovcheg-sp.ru/">kovcheg-sp.ru</a></string>
+    <string name="hotel_20_phone_number"> <a href="tel:+79652005070">+7 965 200 50 70</a></string>
+    <string name="hotel_20_map_link"><a href="https://goo.gl/maps/BwBK577cDHYtEWvr5">Ulitsa Druzhby, 11 "Б, Sergiyev Posad, Moscow Oblast, 141301</a></string>
+    <!-- Hotel21 -->
+    <string name="hotel_21_name">Country House Vorontsovo</string>
+    <string name="hotel_21_distance">6 km from center</string>
+    <string name="hotel_21_description">Located in Sergiyev Posad, 11 km from Trinity-Sergius Lavra, Воронцово Country House provides accommodation with a shared lounge, free private parking, a garden and barbecue facilities. Featuring family rooms, this property also provides guests with a terrace. The hotel features a hot tub and a shared kitchen.
+        \nAt the hotel, all rooms are fitted with a wardrobe. At Country House Vorontsovo, each room is equipped with air conditioning and a private bathroom.
+        \nAt the accommodation guests are welcome to take advantage of a sauna. You can play billiards and table tennis at Country House Vorontsovo.</string>
+    <string name="hotel_21_link"><a href="http://xn--b1aa6adabbl0d.xn--p1ai/">https://воронцово.рф</a></string>
+    <string name="hotel_21_phone_number"> <a href="tel:+79162761185">+7 916 276 11 85</a></string>
+    <string name="hotel_21_map_link"><a href="https://goo.gl/maps/owiJyubHbeGZAQZ78">Vorontsovo, Moscow Oblast, 141308</a></string>
+    <!-- Hotel22 -->
+    <string name="hotel_22_name">Petrovsky Dvorik</string>
+    <string name="hotel_22_distance">12 km from Sergiyev</string>
+    <string name="hotel_22_description">This hotel is located in the village of Vozdvizhenskoe, 10 km from Sergiyev Posad. Tsar-style interiors, free Wi-Fi and a 24-hour front desk are featured at Peter Palace Hotel. The property features a spa and wellness centre, indoor pool with salt water, hammam and steam room.
+        \nThe elegant rooms of this hotel offer warm decor. Each room features a TV, a refrigerator and a private bathroom.
+        \nPeter Palace Restaurant is decorated with paintings of Tsar Peter the Great and serves Russian and Italian cuisine. Barbecue facilities are located on the terrace. After a meal guests can relax in the comfortable fireplace hall.</string>
+    <string name="hotel_22_phone_number"> <a href="tel:+74959896316">+7 495 989 63 16</a></string>
+    <string name="hotel_22_map_link"><a href="https://goo.gl/maps/6ZQ75pgeXKeXfBdm9">Village Vozdvizhenskaya st., 76, Sergiev Posad, Moscow region, 141362</a></string>
+    <!-- Hotel23 -->
+    <string name="hotel_23_name">Russkiye Sezony Park Hotel Peresvet</string>
+    <string name="hotel_23_distance">12 km from Sergiyev Posad</string>
+    <string name="hotel_23_description">Russkie Sezony Парк Отель is spread over 73 hectares of land and is in Peresvet, Moscow region, 15 km from the centre of Serviyev Posad. This property offers a professional hockey rink, skating rink, ski trail and football field, as well as a cinema. Free Wi-Fi access in all areas and free private parking are available.
+        \nThe classic-style air-conditioned rooms feature a flat-screen TV with satellite channels. The bathroom comes with free toiletries and a hairdryer.
+        \nGuests can order dishes of Russian and European cuisine in the on-site Arena restaurant, and a further restaurant is available on site. There is also a summer terrace. Bicycle and rollerblades rental is available.
+        \nAt Russkiye Sezony Park Hotel Peresvet you will find a 24-hour front desk and 3 swimming pools, one of which is heated all year long. Other facilities include a sauna, fitness centre, ski storage and ski equipment hire. After a day out, you can sing karaoke with friends, play a game in the 4-lane bowling alley or relax in the spa centre and beauty salon. Younger guests will enjoy the children’s playground.</string>
+    <string name="hotel_23_link"><a href="http://www.peresvethotel.ru/">peresvethotel.ru</a></string>
+    <string name="hotel_23_phone_number"> <a href="tel:+74996420404">+7 499 642 04 04</a></string>
+    <string name="hotel_23_map_link"><a href="https://g.page/Peresvethotel?share">Pionerskaya Ulitsa, 9, Peresvet, Moscow Oblast, 141320</a></string>
+    <!-- Hotel24 -->
+    <string name="hotel_24_name">Apartments near the Lavra</string>
+    <string name="hotel_24_distance">1.7 km from center</string>
+    <string name="hotel_24_description">Located in Sergiyev Posad in the Moscow region region, Апартаменты у Лавры features a balcony and city views. The air-conditioned accommodations is 1.2 mi from Trinity-Sergius Lavra, and guests benefit from private parking available on site and free WiFi.
+        \nThe apartment has 1 bedroom, a flat-screen TV with cable channels, an equipped kitchen, a washing machine and 1 bathroom with a bath.
+        \nThe apartment offers a childrens playground.</string>
+    <string name="hotel_24_map_link"><a href="https://goo.gl/maps/yU2LoM4qsGNKmCKv5">Inzhenernaya Ulitsa 8,Sergiyev Posad</a></string>
+    <!-- Hotel25 -->
+    <string name="hotel_25_name">Dirigible</string>
+    <string name="hotel_25_distance">1.7 km from center</string>
+    <string name="hotel_25_description">Dirigible is a self-catering property set in Sergiyev Posad near Trinity-Sergius Lavra. Guests have a private balcony.
+        \nThe apartment features a flat-screen TV. The apartment also comes with a kitchen and a bathroom.</string>
+    <string name="hotel_25_map_link"><a href="https://goo.gl/maps/26q6d5NPc8USfvYj7">Inzhenernaya Ulitsa, 8, Sergiyev Posad, Moskovskaya oblast, 141310</a></string>
+    <!-- Hotel26 -->
+    <string name="hotel_26_name">Naturelle</string>
+    <string name="hotel_26_distance">2.7 km from center</string>
+    <string name="hotel_26_description">Set in Sergiyev Posad, just 3.1 km from Trinity-Sergius Lavra, Naturelle offers accommodation with a bar and free WiFi. Guests have a private balcony.
+        \nThe apartment features 1 bedroom, a flat-screen TV with satellite channels, an equipped kitchen with a fridge and an oven, a washing machine, and 1 bathroom with a shower.</string>
+    <string name="hotel_26_map_link"><a href="https://goo.gl/maps/CdSVCSDp1VwVgqJ49">Prospekt Krasnoy Armii, 234</a></string>
+    <!-- Hotel27 -->
+    <string name="hotel_27_name">Voznesenskaya 48 Apartment</string>
+    <string name="hotel_27_distance">1.1 km from center</string>
+    <string name="hotel_27_description">Voznesenskaya 48 Apartment is a self-catering accommodation located in Sergiyev Posad, within a 5-minute walk of Sergiyev Posad Train Station. The Trinity Lavra of St. Sergius is 1.2 km away. Free WiFi access is available.
+        \nThe bright apartment is decorated in modern style and features a balcony, washing machine and flat-screen TV. The bathroom comes with a hairdryer and free toiletries.</string>
+    <string name="hotel_27_map_link"><a href="https://goo.gl/maps/mDTvQPJtEi9YurTaA">Voznesenskaya Ulitsa 48, 141300 Sergiyev Posad, Russia</a></string>
+    <!-- Hotel28 -->
+    <string name="hotel_28_name">HAND MADE</string>
+    <string name="hotel_28_distance">1.8 km from center</string>
+    <string name="hotel_28_description">Set in Sergiyev Posad, within 2.4 km of Trinity-Sergius Lavra, АПАРТАМЕНТЫ "HAND MADE" offers accommodation with free WiFi and air conditioning.
+        \nThe apartment features 2 bedrooms, a flat-screen TV, an equipped kitchen with a dishwasher and a microwave, a washing machine, and 1 bathroom with a bath.</string>
+    <string name="hotel_28_map_link"><a href="https://goo.gl/maps/C1hFAixMxtKjAskg6">Prospekt Krasnoy Armii, 1а 23</a></string>
+
+    <!-- Hotel29 -->
+    <string name="hotel_29_name">Lux apartment with jacuzzi</string>
+    <string name="hotel_29_distance">1.6 km from center</string>
+    <string name="hotel_29_description">Set 1.2 mi from Trinity-Sergius Lavra, Lux apartment with jacuzzi offers accommodations with a balcony and free WiFi. The accommodations is air conditioned and comes with a spa bath.
+        \nFeaturing a kitchen with a microwave and a fridge, each unit also comes with a satellite flat-screen TV, ironing facilities, desk and a seating area with a sofa. There is a private bathroom with hot tub in all units, along with a hairdryer and free toiletries.
+        \nThe apartment offers a hot tub.</string>
+    <string name="hotel_29_map_link"><a href="https://goo.gl/maps/CMPsbbiyhB9iL6Vq9">1 Udarnoy Armii, 95</a></string>
+    <!-- Hotel30 -->
+    <!-- Hotel30 -->
+    <string name="hotel_30_name">Victoria Park Apartments 2к</string>
+    <string name="hotel_30_distance">1.6 km from center</string>
+    <string name="hotel_30_description">Located in Sergiyev Posad, 2.1 km from Trinity-Sergius Lavra, Victoria Park Apartments 2к provides air-conditioned accommodation with a balcony and free WiFi. The property has city views.
+        \nThe apartment features 1 bedroom, a flat-screen TV with cable channels, an equipped kitchen with a microwave and a fridge, a washing machine, and 1 bathroom with a shower.
+        \nA childrens playground is available on site and hiking can be enjoyed within close proximity of the apartment.</string>
+    <string name="hotel_30_map_link"><a href="https://goo.gl/maps/CMPsbbiyhB9iL6Vq9">1 Udarnoy Armii, 95</a></string>
+    <!-- Hotel31 -->
+    <string name="hotel_31_name">Apartment on Voznesenskaya 107</string>
+    <string name="hotel_31_distance">1.3 km from center</string>
+    <string name="hotel_31_description">Featuring air-conditioned accommodation with a balcony, Apartment on Voznesenskaya 107 is located in Sergiyev Posad.
+        \nThis apartment comes with 1 bedroom, a kitchen with a dishwasher and a fridge, a flat-screen TV, a seating area and 1 bathroom equipped with a shower.
+        \nA terrace is available on site and hiking can be enjoyed within close proximity of the apartment.</string>
+    <string name="hotel_31_map_link"><a href="https://goo.gl/maps/fk5UxeL9c6CMNepGA">Voznesenskaya 107</a></string>
+    <!-- Hotel32 -->
+    <string name="hotel_32_name">Victoria Park Apartments 1к</string>
+    <string name="hotel_32_distance">1.6 km from center</string>
+    <string name="hotel_32_description">Set in Sergiyev Posad, within 2.3 km of Trinity-Sergius Lavra, Victoria Park Apartments 1к offers accommodation with free WiFi and air conditioning. Boasting a balcony, the apartment is in an area where guests can engage in activities such as hiking, skiing and fishing.
+        \nThe apartment has 1 bedroom, a flat-screen TV with cable channels, an equipped kitchen with a microwave and a fridge, a washing machine, and 1 bathroom with a shower.
+        \nA childrens playground is available for guests to use at the apartment.</string>
+    <string name="hotel_32_map_link"><a href="https://goo.gl/maps/CMPsbbiyhB9iL6Vq9">1 Udarnoy Armii, 95</a></string>
+    <!-- Hotel33 -->
+    <string name="hotel_33_name">Apartment on Valovaya</string>
+    <string name="hotel_33_distance">800 m from center</string>
+    <string name="hotel_33_description">Apartment on Valovaya offers accommodation in the centre of Sergiyev Posad, a 7-minute walk from Trinity-Sergius Lavra.
+        \nThe kitchen is fitted with a microwave and a refrigerator, as well as a kettle. A flat-screen TV is available. There is a private bathroom with a bath. The apartment features free WiFi throughout the property.
+        \nThere are 2 supermarkets a short walk from the property.</string>
+    <string name="hotel_33_map_link"><a href="https://goo.gl/maps/DPnUskXCPgiPT44L9">Ulitsa Valovaya 50, 141300 Sergiyev Posad</a></string>
+    <!-- Hotel34 -->
+    <string name="hotel_34_name">Nice Guest House</string>
+    <string name="hotel_34_distance">1.4 km from center</string>
+    <string name="hotel_34_description">Featuring a shared lounge, Nice Guest House is located in Sergiyev Posad in the Moscow region, 1.6 km from Trinity-Sergius Lavra. The accommodation provides a 24-hour front desk, airport transfers, a shared kitchen and free WiFi.
+        \nAt the hostel, each room is fitted with a wardrobe. The shared bathroom is equipped with a shower and a hairdryer.
+        \nGuests at Nice Guest House can enjoy a continental breakfast.</string>
+    <string name="hotel_34_phone_number"> <a href="tel:+79032157673">+7 903 215 76 73</a></string>
+    <string name="hotel_34_map_link"><a href="https://goo.gl/maps/YwJYoHi9VCFdKUCv7">Prospekt Krasnoy Armii, 212, Sergiyev Posad, Moscow Oblast, 141310</a></string>
+
+    <!-- Hotel35 -->
+    <string name="hotel_35_name">Hostels Tut</string>
+    <string name="hotel_35_distance">1.8 km from center</string>
+    <string name="hotel_35_description">Located in Sergiyev Posad, Moscow region region, Hostels Tut - Sergiyev Posad is set 3.1 km from Trinity-Sergius Lavra. The accommodation provides a 24-hour front desk, a shuttle service, a shared kitchen and free WiFi throughout the property.
+        \nGuest rooms in the hostel are equipped with a coffee machine. Each room comes with a shared bathroom with a shower and a hairdryer.
+        \nYou can play darts at Hostels Tut - Sergiyev Posad, and the area is popular for hiking.</string>
+    <string name="hotel_35_map_link"><a href="https://goo.gl/maps/ZBKwYZY3RGrY4Fd48">Prospekt Krasnoy Armii, 92</a></string>
+    <!-- Hotel36 -->
+    <string name="hotel_36_name">Strannik Hostel</string>
+    <string name="hotel_36_distance">950 m from center</string>
+    <string name="hotel_36_description">Located in Sergiyev Posad, 1.6 km from Trinity-Sergius Lavra, Strannik Hostel features accommodation with free WiFi and free private parking. The accommodation provides a 24-hour front desk and a shared kitchen for guests.
+        \nAt the hostel, the rooms come with a wardrobe. At Strannik Hostel each room is equipped with a desk and a shared bathroom.
+        \nGuests at the accommodation can enjoy a Full English/Irish breakfast.</string>
+    <string name="hotel_36_phone_number"> <a href="tel:+79680768421">+7 968 076 84 21</a></string>
+    <string name="hotel_36_map_link"><a href="https://goo.gl/maps/3dvFfmKAducoSQqU6">Voznesenskaya Ulitsa, 78, Sergiyev Posad, Moscow Oblast, 141307</a></string>
+    <!-- Hotel37 -->
+    <string name="hotel_37_name">Ocharovannyy Strannik</string>
+    <string name="hotel_37_distance">1.1 km from center</string>
+    <string name="hotel_37_description">Situated in Sergiyev Posad, 1.5 km from the Holy Trinity Sergiev Lavra, Ocharovannyy Strannik features free WiFi access and free private parking.
+        \nThe bright rooms come with shared bathroom facilities. Individual lockers are provided.
+        \nYou will find a 24-hour front desk and a shared kitchen at the property.</string>
+    <string name="hotel_37_phone_number"> <a href="tel:+79680768421">+7 968 076 84 21</a></string>
+    <string name="hotel_37_map_link"><a href="https://goo.gl/maps/ESxWQx4C87bZ5Xkm9">Ulitsa Valovaya, 50, Sergiyev Posad, Moscow Oblast, 141310</a></string>
+    <!-- Hotel38 -->
+    <string name="hotel_38_name">Hostel Kak Doma</string>
+    <string name="hotel_38_distance">1.4 km from center</string>
+    <string name="hotel_38_description">Hostel Kak Doma offers accommodation in Sergiev Posad. Free WiFi and free public parking are available. Sergiev Posad Train Station is within a 5-minute walk away.
+        \nYou will find an individual socket, lamp and towels in the room. A shared bathroom comes with a hairdryer.
+        \nGuests can cook meals in the shared kitchen. Complimentary tea and coffee are provided. Breakfast is provided upon request.</string>
+    <string name="hotel_38_map_link"><a href="https://goo.gl/maps/ihSNHYXhcTQZjXod7">Zheleznodorozhnaya, 22/1 4 floor, 141315 Sergiyev Posad, Russia</a></string>
+    <!-- Hotel39 -->
+    <string name="hotel_39_name">Hostel on Kooperativnaya 35</string>
+    <string name="hotel_39_distance">900 m from center</string>
+    <string name="hotel_39_description">Situated in Sergiyev Posad, Moscow region region, Hostel on Kooperativnaya 35 is located 1.5 km from Trinity-Sergius Lavra. There is free private parking and the property features paid airport shuttle service.
+        \nAll rooms will provide guests with a wardrobe and a kettle.
+        \nGuests at the hostel will be able to enjoy activities in and around Sergiyev Posad, like hiking.</string>
+    <string name="hotel_39_phone_number"> <a href="tel:+79256065766">+7 925 606 57 66</a></string>
+    <string name="hotel_39_map_link"><a href="https://goo.gl/maps/EaWuxTh5hnskMbTG9">Kooperativnaya Ulitsa, 35, Sergiyev Posad, Moscow Oblast, 141300</a></string>
+    <!-- Hotel40 -->
+    <string name="hotel_40_name">Hostel 95</string>
+    <string name="hotel_40_distance">1.6 km from center</string>
+    <string name="hotel_40_description">Situated in Sergiyev Posad, 2.3 km from Trinity-Sergius Lavra, Хостел 95 has a number of amenities including a shared lounge and free WiFi. The accommodation features a 24-hour front desk, a shared kitchen and organising tours for guests.
+        \nThe rooms in the hostel are fitted with a kettle. At Хостел 95 rooms are fitted with a flat-screen TV, a shared bathroom, and a balcony with a city view.</string>
+    <string name="hotel_40_phone_number"> <a href="tel:+79857274829">+7 985 727 48 29</a></string>
+    <string name="hotel_40_map_link"><a href="https://goo.gl/maps/pcL7bpZNTovD56pD7">Ulitsa 1-Oy Udarnoy Armii, 95</a></string>
+    <!-- Hotel 41 -->
+    <string name="hotel_41_name">Mini-hotel Kelarskaya Naberezhnaya</string>
+    <string name="hotel_41_distance">500 m from center</string>
+    <string name="hotel_41_description">Set in Sergiyev Posad, 1.2 km from Trinity-Sergius Lavra, Mini-hotel Kelarskaya Naberezhnaya offers accommodation with a restaurant and free private parking. The guest house provides a childrens playground, a 24-hour front desk, and free WiFi is available.
+        \nAll guest rooms come with air conditioning, a flat-screen TV with satellite channels, a fridge, a kettle, a bidet, a hairdryer and a desk. With a private bathroom fitted with a shower and free toiletries, rooms at the guest house also have a city view. Guest rooms feature a wardrobe.
+        \nMini-hotel Kelarskaya Naberezhnaya offers a continental or à la carte breakfast.
+        \nGuests at the accommodation will be able to enjoy activities in and around Sergiyev Posad, like hiking and cycling.</string>
+    <string name="hotel_41_link"><a href="http://kn-restoran.ru/">kn-restoran.ru</a></string>
+    <string name="hotel_41_phone_number"> <a href="tel:+74965415443">+7 496 541 54 43</a></string>
+    <string name="hotel_41_map_link"><a href="https://goo.gl/maps/ET5Qek2WQU83GYXW6">Prospekt Krasnoy Armii, 125, Sergiyev Posad, Moscow Oblast, 141300</a></string>
+    <!-- Hotel 42 -->
+    <string name="hotel_42_name">Twelve Guest House</string>
+    <string name="hotel_42_distance">600 m from center</string>
+    <string name="hotel_42_description">Set in Sergiyev Posad and with Trinity-Sergius Lavra reachable within 1.3 km, Twelve Guest House offers express check-in and check-out, rooms, a bar, free WiFi throughout the property and a garden. Featuring family rooms, this property also provides guests with a terrace. Staff on site can arrange a shuttle service.
+        \nAt the guest house, all rooms are equipped with a patio. The units will provide guests with a microwave.
+        \nThe area is popular for hiking and skiing, and ski equipment hire is available at Twelve Guest House.</string>
+    <string name="hotel_42_phone_number"> <a href="tel:+79857478992">+7 985 747 89 92</a></string>
+    <string name="hotel_42_map_link"><a href="https://g.page/TwelveGuestHouse?share">Ulitsa Vifanskaya, 12, Sergiyev Posad, Moscow Oblast, 141313</a></string>
+    <!-- Hotel 43 -->
+    <string name="hotel_43_name">Esquire House</string>
+    <string name="hotel_43_distance">2.2 km from center</string>
+    <string name="hotel_43_description">Set in Sergiyev Posad, Moscow region region, Esquire House is situated 3.2 km from Trinity-Sergius Lavra. The accommodation offers a 24-hour front desk as well as free WiFi throughout the property.
+        \nAt the guest house, all rooms are equipped with a desk and a flat-screen TV.
+        \nGuests at Esquire House can enjoy a continental breakfast.</string>
+    <string name="hotel_43_link"><a href="http://esquirehouse.ru/">esquirehouse.ru</a></string>
+    <string name="hotel_43_phone_number"> <a href="tel:+79261690800">+7 926 169 08 00</a></string>
+    <string name="hotel_43_map_link"><a href="https://goo.gl/maps/XBnD5Cx698KvS6yR8">Ulitsa Glinki, 9, Sergiyev Posad, Moscow Oblast, 141303</a></string>
+
+    <!-- Hotel
+    <string name="hotel__name"></string>
+    <string name="hotel__distance"></string>
+    <string name="hotel__description"></string>
+    <string name="hotel__link"><a href=""></a></string>
+    <string name="hotel__phone_number"> <a href="tel:"></a></string>
+    <string name="hotel__map_link"><a href=""></a></string>
+
+    <string name="food_1_name"></string>
+    <string name="hotel_1_description"></string>
+    <string name="hotel_1_link"><a href=""></a></string>
+    <string name="hotel_1_phone_number"> <a href="tel:"></a></string>
+    <string name="hotel_1_map_link"><a href=""></a></string>
+-->
+    <string name="food_1_name">Varenichnaya № 9</string>
+    <string name="food_1_description">PRICE RANGE
+        \nRUB 160 - RUB 700
+        \nCUISINES
+        \nHealthy, European, Russian
+        \nSPECIAL DIETS
+        \nVegetarian Friendly, Vegan Options
+        \nMEALS
+        \nBreakfast, Lunch, Dinner, Brunch
+        \nFEATURES
+        \nTakeout, Reservations, Seating, Highchairs Available, Serves Alcohol, Accepts Credit Cards, Table Service</string>
+    <string name="food_1_link"><a href="https://varenichnaya9.ru/">varenichnaya9.ru</a></string>
+    <string name="food_1_phone_number"><a href="tel:+7 965 373-27-32">+7 965 373-27-32</a></string>
+    <string name="food_1_map_link"><a href="https://goo.gl/maps/qU6aSB1hhsjHebvL7">Karla Marksa St., 7, Sergiyev Posad 141315</a></string>
+    <string name="food_1_work_time">09:00–10:00</string>
+    <!-- Food 2 -->
+    <string name="food_2_name">Brynza</string>
+    <string name="food_2_description">CUISINES
+        \nCafe, European, Russian, Central European
+        \nSPECIAL DIETS
+        \nVegetarian Friendly, Vegan Options
+        \nMEALS
+        \nBreakfast, Lunch, Dinner, Brunch
+        \nFEATURES
+        \nTakeout, Reservations, Seating, Highchairs Available, Serves Alcohol, Free Wifi, Accepts Credit Cards, Table Service</string>
+    <string name="food_2_link"><a href="https://vk.com/cafebrinza">vk.com/cafebrinza</a></string>
+    <string name="food_2_phone_number"><a href="+7 916 992-02-48">+7 916 992-02-48</a></string>
+    <string name="food_2_map_link"><a href="https://goo.gl/maps/h3NWkkjkhno8zCFV9">Karla Marksa St., 7, Sergiyev Posad 141315 Russia</a></string>
+    <string name="food_2_work_time">11:00-00-00</string>
+    <!-- Food 3 -->
+    <string name="food_3_name">Landau Cafe</string>
+    <string name="food_3_description">CUISINES
+        \nCafe, Grill, Pub, Gastropub, Russian, European
+        \nSPECIAL DIETS
+        \nVegetarian Friendly, Vegan Options
+        \nMEALS
+        \nBreakfast, Lunch, Dinner, Brunch
+        \nFEATURES
+        \nTakeout, Reservations, Seating, Serves Alcohol, Free Wifi, Accepts Credit Cards, Table Service, Highchairs Available</string>
+    <string name="food_3_link"><a href="https://landausp.ru">landausp.ru</a></string>
+    <string name="food_3_phone_number"><a href="+7 916 677-21-15">+7 916 677-21-15</a></string>
+    <string name="food_3_map_link"><a href="https://goo.gl/maps/5CuKjucdCAeVPXzn9">Karla Marksa St., 7, Sergiyev Posad</a></string>
+    <string name="food_3_work_time">10:00-23:00</string>
+    <!--          Food 4              -->
+    <string name="food_4_name">Pirosmani Cafe</string>
+    <string name="food_4_description">CUISINES
+        \nGeorgian, Cafe
+        \nSPECIAL DIETS
+        \nVegetarian Friendly, Vegan Options
+        \nMEALS
+        \nLunch, Dinner, Brunch
+        \nFEATURES
+        \nTakeout, Reservations, Seating, Highchairs Available, Serves Alcohol, Free Wifi, Accepts Credit Cards, Table Service</string>
+    <string name="food_4_link"><a href="https://vk.com/pirosmani_cafe">vk.com/pirosmani_cafe</a></string>
+    <string name="food_4_phone_number"><a href="+7 910 409-28-86">+7 910 409-28-86</a></string>
+    <string name="food_4_map_link"><a href="https://goo.gl/maps/rU6KUNdL9uosdGhn8">Krasnoi Armii ave, 138/2, Sergiyev Posad </a></string>
+    <string name="food_4_work_time">11:00–00:00</string>
+    <!--          Food 5              -->
+    <string name="food_5_name">Russkiy Dvorik Restaurant</string>
+    <string name="food_5_description">CUISINES
+        \nEuropean, Russian, Soups
+        \nSPECIAL DIETS
+        \nVegetarian Friendly, Vegan Options, Gluten Free Options
+        \nMEALS
+        \nDrinks, Breakfast, Lunch, Dinner, Brunch, Late Night
+        \nFEATURES
+        \nTakeout, Highchairs Available, Reservations, Buffet, Private Dining, Seating, Parking Available, Serves Alcohol, Full Bar, Accepts Mastercard, Accepts Visa, Digital Payments, Free Wifi, Accepts Credit Cards, Table Service</string>
+    <string name="food_5_link"><a href="http://rus-dvorik.ru">rus-dvorik.ru</a></string>
+    <string name="food_5_phone_number"><a href="+7 496 540-51-14">+7 496 540-51-14</a></string>
+    <string name="food_5_map_link"><a href="https://goo.gl/maps/okeUdcVYaf83orPb9">Krasnoi Armii Ave, 134/2, Sergiyev Posad</a></string>
+    <string name="food_5_work_time">11:00–01:00</string>
+    <!--          Food 6              -->
+    <string name="food_6_name">Sergiyevskaya Kukhmisterskaya</string>
+    <string name="food_6_description">Russian cuisine restaurant of the late 19th and early 20th century. Meals are prepared by cooking the books of Molohovetc and Ignatieva.
+\nPRICE RANGE
+\nRUB 140 - RUB 450
+\nCUISINES
+\nRussian, Cafe
+\nSPECIAL DIETS
+\nVegetarian Friendly
+\nMEALS
+\nBreakfast, Lunch, Dinner, Brunch
+\nFEATURES
+\nReservations, Seating, Serves Alcohol, Table Service</string>
+    <string name="food_6_link"><a href="http://muzeykuhmister.ru">muzeykuhmister.ru</a></string>
+    <string name="food_6_phone_number"><a href="+7 919 767-36-78">+7 919 767-36-78</a></string>
+    <string name="food_6_map_link"><a href="https://goo.gl/maps/UqhK5HYvkGK1Jo3g8">Karla Marksa St., 7, Sergiyev Posad</a></string>
+    <string name="food_6_work_time">09:00–22:00</string>
+
+    <!--          Food 7              -->
+    <string name="food_7_name">Traktir</string>
+    <string name="food_7_description">CUISINES
+\nRussian
+\nSPECIAL DIETS
+\nVegetarian Friendly, Vegan Options
+\nMEALS
+\nLunch, Dinner, Brunch
+\nFEATURES
+\nTakeout, Reservations, Private Dining, Seating, Parking Available, Street Parking, Free Wifi, Table Service, Drive Thru, Non-smoking restaurants</string>
+    <string name="food_7_phone_number"><a href="+7 926 447-39-79">+7 926 447-39-79</a></string>
+    <string name="food_7_map_link"><a href="https://goo.gl/maps/VHgR4ajdHnvU7Qbs7">Krasnoi Armii Ave., 158, Sergiyev Posad</a></string>
+    <string name="food_7_work_time">09:00 - 22:00</string>
+
+    <!--          Food 8              -->
+    <string name="food_8_name">Gostevaya Izba</string>
+    <string name="food_8_description">The Gostevaya Izba (Pilgrims Refectory) restaurant and museum of Russian gastronomic heritage is located in the historic building of the Old Monastery Hostelry wine cellar at St Sergius Holy Trinity Lavra. Opened in 2012 the restaurant was established to recreate the Russian households cuisine from the Middle Ages to nowadays. The wooden furniture, waiters’ outfits and folk prints on the walls replicate the authentic items from the Sergiev Posad State History and Arts Museum Reserve. Mantelpieces are tiled with unique ceramic tiles manufactured using the old casts. The Gostevaya Izba (Pilgrims Refectory) has two banquet halls and a small private dining room seating 25, and two spacious patios, which suits a large gathering, a family or a group of friends. Guests are welcome to get acquainted with the Russian culinary traditions in all their variety.
+\nPRICE RANGE
+\nRUB 240 - RUB 890
+\nCUISINES
+\nHealthy, Russian, Soups, Eastern European
+\nSPECIAL DIETS
+\nVegetarian Friendly, Vegan Options
+\nMEALS
+\nDrinks, Breakfast, Lunch, Dinner, Brunch
+\nFEATURES
+\nTakeout, Outdoor Seating, Seating, Parking Available, Street Parking, Free off-street parking, Highchairs Available, Wheelchair Accessible, Accepts Mastercard, Accepts Visa, Free Wifi, Reservations, Accepts Credit Cards, Table Service, Private Dining, Wine and Beer, Live Music, Drive Thru, Family style, Non-smoking restaurants, Gift Cards Available</string>
+    <string name="food_8_link"><a href="https://www.sergiev-kanon.ru/gostepriimstvo/gostevaya-izba/">www.sergiev-kanon.ru</a></string>
+    <string name="food_8_phone_number"><a href="+7 496 541-43-43">+7 496 541-43-43</a></string>
+    <string name="food_8_map_link"><a href="https://g.page/gostevayaizba?share">Aptekarskiy Ln., 1, Sergiyev Posad</a></string>
+    <string name="food_8_work_time">10:00–23:00</string>
+    <!--          Food 9              -->
+    <string name="food_9_name">Manufaktura 1858</string>
+    <string name="food_9_description">CUISINES
+\nAmerican, Bar, Barbecue, European, Pub, Central European
+\nSPECIAL DIETS
+\nVegetarian Friendly, Vegan Options
+\nMEALS
+\nDinner, Lunch
+\nFEATURES
+\nTakeout, Reservations, Seating, Television, Serves Alcohol, Full Bar, Accepts Credit Cards, Table Service</string>
+    <string name="food_9_link"><a href="https://vk.com/manufaktura1858">vk.com/manufaktura1858</a></string>
+    <string name="food_9_phone_number"><a href="+7 496 540-62-81">+7 496 540-62-81</a></string>
+    <string name="food_9_map_link"><a href="https://g.page/manufaktura1858?share">Karla Marksa, 7/16, Sergiyev Posad</a></string>
+    <string name="food_9_work_time">11:00–01:00</string>
+    <!--          Food 10              -->
+    <string name="food_10_name">Lagmannaya</string>
+    <string name="food_10_description">CUISINES
+\nCafe, Middle Eastern, Eastern European, European, Asian, Russian
+\nMEALS
+\nLunch, Dinner, Brunch
+\nFEATURES
+\nTakeout, Delivery</string>
+    <string name="food_10_link"><a href="http://lagman-cafe.ru">lagman-cafe.ru</a></string>
+    <string name="food_10_phone_number"><a href="+70965429082">+7 096 542 90 82</a></string>
+    <string name="food_10_map_link"><a href="https://goo.gl/maps/A2EGawNx77udek246">Inzhenernaja,10, Sergiyev Posad</a></string>
+    <string name="food_10_work_time">08:00–19:00</string>
+    <!--          Food 11              -->
+    <string name="food_11_name">Bar SVOI</string>
+    <string name="food_11_description">PRICE RANGE
+\nRUB 221 - RUB 737
+\nCUISINES
+\nEuropean
+\nMEALS
+\nLunch, Dinner, Late Night, Drinks
+\nFEATURES
+\nParking Available, Street Parking, Free off-street parking, Wine and Beer, Accepts Mastercard, Accepts Visa, Free Wifi, Accepts Credit Cards, Table Service, Takeout, Reservations, Seating, Television, Serves Alcohol</string>
+    <string name="food_11_link"><a href="https://svoi.bar">svoi.bar</a></string>
+    <string name="food_11_phone_number"><a href="+7 495 111-94-30">+7 495 111-94-30</a></string>
+    <string name="food_11_map_link"><a href="https://goo.gl/maps/cWH6HPoutRVt2Sou9">1-ya Rybnaya 9/26, Sergiyev Posad</a></string>
+    <string name="food_11_work_time">13:00–04:00</string>
+    <!--          Food 12              -->
+    <string name="food_12_name">Mario Pizza</string>
+    <string name="food_12_description">CUISINES
+\nJapanese, Pizza
+\nFEATURES
+\nSeating, Table Service, Takeout</string>
+    <string name="food_12_link"><a href="https://mario.pizza/contacts">mario.pizza</a></string>
+    <string name="food_12_phone_number"><a href="+7 926 700-11-00">+7 926 700-11-00</a></string>
+    <string name="food_12_map_link"><a href="https://goo.gl/maps/5t4k5s7PD4y6a9jr9">Krasnoi Armii Ave., 187А, Sergiyev Posad</a></string>
+    <string name="food_12_work_time">10:00–23:00</string>
+    <!--          Food 13              -->
+    <string name="food_13_name">Bufet Lafet</string>
+    <string name="food_13_description">Airy. Light and Simple. A cozy buffet in the center of the city with a relaxed home atmosphere. It is nice, democratic and friendly. In the menu - simple and delicious dishes of modern cuisine. Comfortable chairs good for a long siting with friends. Gracious hosts will happy to feed you dinner and with cordiality will offer a fragrant cappuccino. In the evening, dont you want a freshly crafted.
+\nPRICE RANGE
+\nRUB 300 - RUB 1,500
+\nCUISINES
+\nBrew Pub, European, Contemporary, Pub, Central European, Mediterranean, Russian
+\nMEALS
+\nLunch, Dinner, Breakfast
+\nFEATURES
+\nReservations, Seating, Takeout, Table Service</string>
+    <string name="food_13_phone_number"><a href="+7 963 697-85-89">+7 963 697-85-89</a></string>
+    <string name="food_13_map_link"><a href="https://goo.gl/maps/yMyqpZeMKEvY698D6">Pozharny Ln.,3A, Sergiyev Posad </a></string>
+    <string name="food_13_work_time">09:00–20:00</string>
+    <!--          Food 14              -->
+    <string name="food_14_name">Restaurant Prishvin</string>
+    <string name="food_14_description">PRICE RANGE
+\nRUB 320 - RUB 1,500
+\nCUISINES
+\nEuropean, Seafood, Mediterranean
+\nMEALS
+\nLunch, Dinner, Brunch
+\nFEATURES
+\nReservations, Street Parking, Serves Alcohol, Full Bar, Wine and Beer, Accepts Mastercard, Accepts Visa, Cash Only, Free Wifi, Table Service, Takeout, Outdoor Seating, Seating, Parking Available, Television, Highchairs Available</string>
+    <string name="food_14_phone_number"><a href="+7 496 547-08-80">+7 496 547-08-80</a></string>
+    <string name="food_14_map_link"><a href="https://g.page/ysadbaprishvin_?share">Kooperativnaya St, House 46, Sergiyev Posad</a></string>
+    <string name="food_14_work_time">12:00–23:55</string>
+    <!--          Food 15              -->
+    <string name="food_15_name">LEO Street Eat</string>
+    <string name="food_15_description">A nice kitchen. The cook is an Indian. Dishes of Indian and Thai cuisine. From domestic natural products! There is a Vegetarian menu. French cakes. Italian pizza.
+\nPRICE RANGE
+\nRUB 737 - RUB 3,687
+\nCUISINES
+\nItalian, French, Indian, European, Tibetan, Pizza
+\nMEALS
+\nLunch, Dinner
+\nFEATURES
+\nTable Service, Reservations, Seating</string>
+    <string name="food_15_link"><a href="https://www.facebook.com/leo.street.eat/">leo.street.eat</a></string>
+    <string name="food_15_phone_number"><a href="+7 926 575-20-50">+7 926 575-20-50</a></string>
+    <string name="food_15_map_link"><a href="https://goo.gl/maps/JT7FkWWpQ4HUYc9q7">Druzhby St., 9A, Sergiyev Posad</a></string>
+    <string name="food_15_work_time">11:00–23:00</string>
+    <!--          Food 17              -->
+    <string name="food_17_name">Cafe Eclair</string>
+    <string name="food_17_description">CUISINES
+\nCafe
+\nSPECIAL DIETS
+\nVegetarian Friendly
+\nMEALS
+\nBreakfast, Brunch, Drinks, Lunch, Dinner
+\nFEATURES
+\nTakeout, Parking Available, Street Parking, Accepts Mastercard, Accepts Visa, Free Wifi, Table Service, Seating, Highchairs Available</string>
+    <string name="food_17_link"><a href="https://www.cafe-eclair.ru">cafe-eclair.ru</a></string>
+    <string name="food_17_phone_number"><a href="+7 985 740-43-44">+7 985 740-43-44</a></string>
+    <string name="food_17_map_link"><a href="https://goo.gl/maps/fg3PWXfXcuovtK3F7">1st Udarnoi Armii St., 95, Sergiyev Posad</a></string>
+    <string name="food_17_work_time">09:00–21:00</string>
+    <!--          Food 18              -->
+    <string name="food_18_name">Baikal</string>
+    <string name="food_18_description">Welcome to the cafe of Buryat cuisine! Buryats are Mongolian people living on the shores of Baikal. Like all the Mongols, they bred cattle. Their lives and traditions have long been dictated by the harsh conditions of the steppe. Serious resource constraints (before the arrival of the Russians, the Buryats were not engaged in the collection and tillage) dictated their own rules of management. Buryat national cuisine is very tasty and varied. The basis of many dishes consumed fresh meat.
+\nPRICE RANGE
+\nRUB 270 - RUB 450
+\nCUISINES
+\nAsian, Russian, Mongolian, Central Asian
+\nSPECIAL DIETS
+\nVegetarian Friendly, Vegan Options
+\nMEALS
+\nLunch, Dinner, Breakfast, Brunch, Drinks
+\nFEATURES
+\nTakeout, Seating, Table Service, Delivery, Reservations, Private Dining, Highchairs Available, Digital Payments, Accepts Credit Cards</string>
+    <string name="food_18_link"><a href="https://vk.com/boozasp">vk.com/boozasp</a></string>
+    <string name="food_18_phone_number"><a href="+7 925 433-01-65">+7 925 433-01-65</a></string>
+    <string name="food_18_map_link"><a href="https://goo.gl/maps/WbZrpfEH1BQYv2F26">1st Rybnaya St., 18A, Sergiyev Posad</a></string>
+    <string name="food_18_work_time">10:00–20:00</string>
+    <!--          Food 19              -->
+    <string name="food_19_name">Govyadin</string>
+    <string name="food_19_description">Restaurant, bar and grill. Pasta, fish and meat. Nice view, good meal. Everyday we do our best for our guests.
+\nPRICE RANGE
+\nRUB 490 - RUB 4,990
+\nCUISINES
+\nItalian, Mediterranean, Grill, Gastropub
+\nMEALS
+\nBreakfast, Lunch, Dinner, Late Night, Drinks
+\nFEATURES
+\nReservations, Outdoor Seating, Seating, Table Service, Digital Payments, Gift Cards Available</string>
+    <string name="food_19_link"><a href="http://govyadin.rest">govyadin.rest</a></string>
+    <string name="food_19_phone_number"><a href="+7 925 771-66-88">+7 925 771-66-88</a></string>
+    <string name="food_19_map_link"><a href="https://goo.gl/maps/9JwhdmiSfheNHWF79">1st Rybnaya St., 3b, Sergiyev Posad</a></string>
+    <string name="food_19_work_time">12:00–16:00 18:00–00:00</string>
+    <!--          Food 20              -->
+    <string name="food_20_name">IL Patio</string>
+    <string name="food_20_description">PRICE RANGE
+\nRUB 500 - RUB 5,000
+\nCUISINES
+\nItalian
+\nMEALS
+\nLunch, Dinner, Breakfast
+\nFEATURES
+\nTable Service, Seating</string>
+    <string name="food_20_link"><a href="https://ilpatio.ru">ilpatio.ru</a></string>
+    <string name="food_20_phone_number"><a href="+7 495 540-84-04">+7 495 540-84-04</a></string>
+    <string name="food_20_map_link"><a href="https://goo.gl/maps/bvzS8koJs5JEhWWY7">Novouglichskoye Hwy., 85 S/C Kapitoliy, Sergiyev Posad</a></string>
+    <string name="food_20_work_time">10:00–22:30</string>
+    <!--          Food 21              -->
+    <string name="food_21_name">Restaurant Krasnyye Palaty</string>
+    <string name="food_21_description">CUISINES
+\nEuropean, Russian
+\nMEALS
+\nDinner
+\nFEATURES
+\nWheelchair Accessible, Serves Alcohol, Table Service, Takeout, Seating</string>
+    <string name="food_21_phone_number"><a href="+7 495 541-25-29">+7 495 541-25-29</a></string>
+    <string name="food_21_map_link"><a href="https://goo.gl/maps/gHs1hh6iA8hguNsG6">Krasnoy Armii Avenue, 131, Sergiyev Posad</a></string>
+    <!--          Food 22              -->
+    <string name="food_22_name">Dodo Pizza</string>
+    <string name="food_22_description">PRICE RANGE
+\nRUB 75 - RUB 695
+\nCUISINES
+\nPizza, Fast Food, Italian
+\nSPECIAL DIETS
+\nVegetarian Friendly
+\nMEALS
+\nBreakfast, Lunch, Dinner, Brunch
+\nFEATURES
+\nDigital Payments, Takeout, Seating, Highchairs Available</string>
+    <string name="food_22_link"><a href="https://dodopizza.ru/sergievposad/ribnaya10">dodopizza.ru/sergievposad/ribnaya10</a></string>
+    <string name="food_22_phone_number"><a href="+7 800 333-00-60">+7 800 333-00-60</a></string>
+    <string name="food_22_map_link"><a href="https://goo.gl/maps/GrjnZJByv34HDuXW6">1ya Rybnaya St., 10, Sergiyev Posad</a></string>
+    <string name="food_22_work_time">10:00–22:00</string>
+    <!--          Food 23              -->
+    <string name="food_23_name">Restaurant Mesto Vstrechi</string>
+    <string name="food_23_description">PRICE RANGE
+\nRUB 40 - RUB 500
+\nCUISINES
+\nRussian
+\nFEATURES
+\nReservations</string>
+    <string name="food_23_link"><a href="https://www.bufet-mv.ru">bufet-mv.ru</a></string>
+    <string name="food_23_phone_number"><a href="+7 496 547-43-99">+7 496 547-43-99</a></string>
+    <string name="food_23_map_link"><a href="https://g.page/SergievPosadMestoVstrechi?share">Krasnoi Armii Ave., 203 V, Sergiyev Posad</a></string>
+    <!--          Food 25              -->
+    <string name="food_25_name">Валентино</string>
+    <string name="food_25_description">ТИП КУХНИ
+\nЕвропейская, Русская
+\nВРЕМЯ ПРИЕМА ПИЩИ
+\nОбед, Ужин</string>
+    <string name="food_25_phone_number"><a href="+7 496 542-65-12">+7 496 542-65-12</a></string>
+    <string name="food_25_map_link"><a href="https://goo.gl/maps/sh394izh1nbNA7xP6">ул. Дружбы, д.2, Сергиев Посад</a></string>
+    <string name="food_25_work_time">11:00–23:00</string>
+    <!--          Food 26              -->
+    <string name="food_26_name">Kelarskaya Naberezhnaya</string>
+    <string name="food_26_description">CUISINES
+\nEuropean
+\nSPECIAL DIETS
+\nVegetarian Friendly, Vegan Options
+\nMEALS
+\nDinner, Brunch
+\nFEATURES
+\nReservations, Seating, Parking Available, Serves Alcohol, Table Service</string>
+    <string name="food_26_link"><a href="https://kn-restoran.ru">kn-restoran.ru</a></string>
+    <string name="food_26_phone_number"><a href="+7 496 541-54-43">+7 496 541-54-43</a></string>
+    <string name="food_26_map_link"><a href="https://goo.gl/maps/B74J9yyLgZsAND8Q9">Krasnoy Armii ave, 125, Sergiyev Posad</a></string>
+    <!--          Food 30              -->
+    <string name="food_30_name">Julie Cafe</string>
+    <string name="food_30_description">Cosy french cafe opened 3 years ago by french-russian family, pastries, desserts, french tartines-croques-quiches and great coffee and since this spring we offer fantastic romain Pizza Scrociarella (13 variants!!!). Free Wi fi. Sportivny Lane 8.
+\nPRICE RANGE
+\nRUB 200 - RUB 1,300
+\nCUISINES
+\nFrench, Italian, European
+\nMEALS
+\nBreakfast, Drinks, Lunch, Dinner
+\nFEATURES
+\nParking Available, Street Parking, Validated Parking, Accepts Mastercard, Accepts Visa, Free Wifi, Accepts Credit Cards, Takeout, Reservations, Seating, Highchairs Available, Gift Cards Available</string>
+    <string name="food_30_link"><a href="https://www.cafe-julie.ru">cafe-julie.ru</a></string>
+    <string name="food_30_phone_number"><a href="+7 800 600-62-91">+7 800 600-62-91</a></string>
+    <string name="food_30_map_link"><a href="https://g.page/juliecafesp?share">Sportivny Ln., 8, Sergiyev Posad</a></string>
+    <string name="food_30_work_time">11:00–21:00</string>
+    <!--          Food 31              -->
+    <string name="food_31_name">CoffeeBar Popeye</string>
+    <string name="food_31_description">The first kraft coffee shop in Sergiev Posad. In our assortment not only coffee, but also hot chocolate, tea, as well as kraft beer and cider.
+\nPRICE RANGE
+\nRUB 100 - RUB 300
+\nCUISINES
+\nEuropean
+\nSPECIAL DIETS
+\nVegetarian Friendly
+\nMEALS
+\nBreakfast, Brunch
+\nFEATURES
+\nDigital Payments, Takeout</string>
+    <string name="food_31_link"><a href="https://coffeebarpopeye.ru">coffeebarpopeye.ru</a></string>
+    <string name="food_31_phone_number"><a href="+7 903 009-49-13">+7 903 009-49-13</a></string>
+    <string name="food_31_map_link"><a href="https://goo.gl/maps/kpoaKDQyjNHTVbDb9">Vokzalnaya Sq., 1, Sergiyev Posad</a></string>
+    <string name="food_31_work_time">06:00–21:00</string>
+    <!--          Food 32              -->
+    <string name="food_32_name">Irlandskiy Pab ElKhaus</string>
+    <string name="food_32_description">CUISINES
+\nPub
+\nMEALS
+\nDrinks</string>
+    <string name="food_32_link"><a href="http://alehouse-sp.ru">alehouse-sp.ru</a></string>
+    <string name="food_32_phone_number"><a href="+7 925 734-44-25">+7 925 734-44-25</a></string>
+    <string name="food_32_map_link"><a href="https://goo.gl/maps/rmFGq6t8muXX1Tay6">Novouglichskoe sh., 53a, Sergiyev Posad</a></string>
+
+
+    <string name="attract_0_name">Trinity Lavra of St. Sergius</string>
+    <!--          attract 1             -->
+    <string name="attract_1_name">Assumption Cathedral</string>
+    <string name="attract_1_description">The largest and most notable building of the Lavra stands in the center of the monastery. The cathedral was built in 1559-1585, and the Assumption Cathedral of the Moscow Kremlin, which by that time was about a hundred years old, was taken as a model. The result is a huge five-domed temple, with the central dome being gilded, and the other four made in blue with stars. There is almost no decor. Inside, the iconostasis has been preserved, some of the icons in which were made in the 16th century (local row), and almost all the rest - at the end of the 17th century. It is known that, among others, Simon Ushakov worked on the iconostasis, but it is not known whether there is anything of his work there. It is possible that he made all six images on the Royal Doors. The entire cathedral, including the domes, is painted with frescoes. They were made in 1684 in three months by Yaroslavl craftsmen under the direction of Dmitry Plekhanov. Saints Innokenty of Moscow (the first bishop of Kamchatka and Alaska) and Macarius Nevsky are buried in the cathedral. Outside, at the western corner of the cathedral, stands the Dormition storehouse with a chapel (originally 1644, but at the end of the 17th century rebuilt under the Baroque, so it turned out to be a wonderful example of the style). The chapel has the form of a miniature church, with carvings and paintings. On the other hand, also outside, the tomb of the Godunovs is located, where, in particular, Tsar Boris Godunov is buried.</string>
+    <string name="attract_1_map_link"><a href="https://goo.gl/maps/rmFGq6t8muXX1Tay6">Show on the map</a></string>
+
+    <!--          attract 2             -->
+    <string name="attract_2_name">Trinity Cathedral</string>
+    <string name="attract_2_description">The main temple of the Lavra and its oldest building. The cathedral was built in 1422-23 on the site of a wooden church that stood earlier on this site. It is a four-pillar one-domed temple built of white stone. From the early architecture of the Moscow principality, quite a few buildings have come down to us - in particular, the Trinity Cathedral is noticeably older than the cathedrals of the Moscow Kremlin and a little younger than the churches in Zvenigorod and in the Andronikov monastery in Moscow - and this is certainly one of the best examples of the style. The cathedral is not very large, its height is only 30 m, but the proportions are chosen so well that you dont pay attention to the size. Initially, the cathedral was painted by Andrei Rublev and Daniil Cherny, but their frescoes have not survived, but in the 17th century new ones were painted for the same motives. The iconostasis was created at the beginning of the 15th century (the deesis, festive and prophetic ranks were performed in the workshop of Andrei Rublev) and then supplemented with new icons until the end of the 17th century: in particular, several icons were made by Simon Ushakov. The cathedral houses the tomb of St. Sergius of Radonezh.</string>
+    <string name="attract_2_map_link"><a href="https://goo.gl/maps/bKCeqdEwbbEnzyc59">Show on the map</a></string>
+    <!--          attract 5             -->
+    <string name="attract_5_name">Church of the Nativity of John the Baptist</string>
+    <string name="attract_5_description">The church was built in the years 1693-1699. It seems that it is rather strangely located, inside the monastery, but very close to the Assumption Gate. Moreover, there is an arch under it, that is, the church was once a gateway. Indeed, once the wall ran to the west than it is now, and later was moved, so that the territory of the lavra increased. The Church of John the Baptist was built on the money of Grigory Stroganov, and it is often ranked among the six surviving Stroganov churches in Russia - the other five are in Solvychegodsk, Ustyuzhna, Usolye and Nizhny Novgorod (two). Like other Stroganov churches, this one has an exceptionally rich exterior decor. The building itself is a quadruple set on a cube, on which, in turn, there are five small domes (they were restored after the 1974 restoration). The iconostasis inside the early 19th century.</string>
+    <string name="attract_5_map_link"><a href="https://goo.gl/maps/ASJkF2t4bVnf4DRe6">Show on the map</a></string>
+    <!--          attract 3             -->
+    <string name="attract_3_name">Spiritual Church</string>
+    <string name="attract_3_description">The small church between the Assumption and Trinity Cathedrals is the second oldest surviving building of the Lavra. It was built in 1476-1477 by Pskov craftsmen. Pskov architecture is remarkable for its belfries, integrated with the main volumes of churches. Here the builders took as a model the nearby Trinity Cathedral, but added a belfry with bells right above the main volume of the church, and above the belfry they put a single dome (currently blue with stars). This is the oldest structure of this type that has come down to us (the church "like the bells"). The church is brick-built with rich decor. Inside the painting is from 1665, but the iconostasis is relatively new, from the 19th century. Several saints are buried in the church, the most famous of which is Maxim the Greek, the greatest philosopher and theologian of the 16th century.</string>
+    <string name="attract_3_map_link"><a href="https://goo.gl/maps/wwSkTk4qBypNWsGc8">Show on the map</a></string>
+    <!--          attract 4             -->
+    <string name="attract_4_name">Church of Zosima and Savvaty Solovetsky</string>
+    <string name="attract_4_description">The tent-roofed church, built in 1635-1637, when the monastery was being rebuilt from the destruction of the Time of Troubles. Kelare Alexander, who coordinated the restoration, was himself from the Solovetsky Monastery (founded by Zosima and Savvaty), from which, probably, the dedication of the church comes. This is the only tent-roofed church in the Lavra: it is assumed that the Transfiguration Cathedral of the Solovetsky Monastery was taken as a model. It is decorated with decor, and at that time it was not entirely trivial. From the south and north, simultaneously with the church, two-story Hospital chambers were built, where elderly monks lived. Inside there is an icon of the 17th century depicting Zosima and Savvaty, the iconostasis itself is modern.</string>
+    <string name="attract_4_map_link"><a href="https://goo.gl/maps/xsUCoRvFcpqcBYsA6">Show on the map</a></string>
+    <!--          attract 6             -->
+    <string name="attract_6_name">Refectory church</string>
+    <string name="attract_6_description">The church, connected to the refectory, is one of the largest in the Lavra and is remarkable for its exterior painting that gives the impression of relief, porches with stairs, as well as rich decor, including columns and shells. Sergievskaya church was built in 1686-1692 and is one of the best examples of Naryshkin baroque. It suffered from a fire in 1746, and in 1749, according to the project of the architect Zhukov, an iron roof was made for it, a rather complex engineering structure at that time. Inside, there is also rich decoration of the late 17th century, murals in 1788 by a group of artists under the direction of a certain Yankovsky. The iconostasis of the 17th century (already brought to our time from Moscow), probably with icons by Semyon Spiridonov. The Refectory Chamber adjacent to the church is the largest historical single-domed building in Russia. Next to the refectory there is a small Mikheevskaya church (1734) with an iconostasis from the 18th century.</string>
+    <string name="attract_6_map_link"><a href="https://goo.gl/maps/JJ18FGQRJohwN8Hd6">Show on the map</a></string>
+    <!--          attract 7             -->
+    <string name="attract_7_name">Smolensk Church</string>
+    <string name="attract_7_description">A very small church from 1746-1753. was built in order to store the carved stone icon of the Smolensk Mother of God. The icon is now in the museum, and a copy is carved on the outer wall of the church, however, the quality is much inferior to the original. The architect of the church is Dmitry Ukhtomsky, one of the most famous Moscow architects of the 18th century. Apparently, this is why the church has a round layout, which is completely uncharacteristic of Russian churches. Inside a 19th century fresco.</string>
+    <string name="attract_7_map_link"><a href="https://goo.gl/maps/gZiX1r2kH4sYvFyPA">Show on the map</a></string>
+    <!--          attract 8             -->
+    <string name="attract_8_name">Kolokolnya</string>
+    <string name="attract_8_description">The bell tower was built from 1741 to 1770, it was started by the architect Johann Jacob Schumacher, and Dmitry Ukhtomsky was finishing the construction. The height of the bell tower is 88 m, which is higher than the bell tower of Ivan the Great in the Moscow Kremlin, and has four tiers, standing on a cubic base. Several bells are historical (the oldest was cast in 1420), the rest were melted down in the 1930s, and new bells were cast already in the 2000s.</string>
+    <string name="attract_8_map_link"><a href="https://goo.gl/maps/N5p1KzjLSNRMXnas9">Show on the map</a></string>
+    <!--          attract 9             -->
+    <string name="attract_9_name">Tsarskiye chertogi</string>
+    <string name="attract_9_description">The two-story building of the Tsars palaces with elegant decor of white stone and polychrome tiles occupies the entire northern side of the monastery and was built on the site of the wooden palace of Ivan the Terrible. The polychrome "checkerboard" coloring of its facade echoes the design of the Refectory Church opposite. On the western side of the building, the stucco decoration of 1745-1748 has been preserved, where, among other things, there are images of the battles of Peter I. The interior decoration includes two tiled stoves from the middle of the 17th century, not the most outstanding painting of the vaults was made in the middle of the 18th century. The room is occupied by a church-archaeological study with a collection of books, icons and church utensils.</string>
+    <string name="attract_9_map_link"><a href="https://goo.gl/maps/dXKniNMJuz2yxrFT8">Show on the map</a></string>
+    <!--          attract 10             -->
+    <string name="attract_10_name">Gethsemane Chernigov Skete</string>
+    <string name="attract_10_description">A lot of interesting things can be found in the vicinity of Sergiev Posad, if you drive a little from the city center. So, for example, three kilometers southeast of the Lavra is the Gethsemane Chernigov skete, which at one time was not inferior to the Lavra in terms of the number of pilgrims. It was founded in 1845-1850, most of the buildings have survived to this day. The architectural dominant is a five-tiered bell tower with two aisles (1895), towering over the district. Cave temples, a chapel, monastic cells and a holy underground spring under the Chernigov Cathedral (1886-1893) attract tourists and pilgrims to this day. Excursions are organized around the skete. The monastic hostel was reopened in 1990.</string>
+    <string name="attract_10_map_link"><a href="https://goo.gl/maps/J5LJnthnQsmi2Xyf6">Show on the map</a></string>
+    <!--          attract 11             -->
+    <string name="attract_11_name">Church of Mary Magdalene</string>
+    <string name="attract_11_description">Before the revolution there was a dacha of a charity house in the village, and the church was built in 1901 as a house by the project of the Moscow architect Ivan Pozdeev. It was built of red bricks and integrated into the brick building of the dacha, which has also been preserved. For a long time, the building was used inappropriately, in particular, it housed a bearing plant, called the "Laboratory of an experimental plant" - an abbreviation for this name and gave the name to the village. Now, there is a boarding school for girls-orphans and a convent inside, but outside the building of the dacha and the church are more interesting than inside.</string>
+    <string name="attract_11_map_link"><a href="https://goo.gl/maps/AJbtCr2N1FjHG16L9">Show on the map</a></string>
+    <!--          attract 12             -->
+    <string name="attract_12_name">Elias Church</string>
+    <string name="attract_12_description">At the mention of the city of Sergiev Posad (in the past - Zagorsk), the imagination immediately draws temples, churches, sketes, springs, the Trinity-Sergius Lavra ... and the Ilyinsky Church (in the name of the Holy Prophet Elijah), an ancient city temple located on a picturesque a hill near the Kelarsky pond, in the old part of Sergiev Posad, not far from the Trinity-Sergius Lavra.</string>
+    <string name="attract_12_map_link"><a href="https://goo.gl/maps/seNyjNQKbK8YmRCk9">Show on the map</a></string>
+    <!--          attract 13             -->
+    <string name="attract_13_name">Horse yard</string>
+    <string name="attract_13_description">The Konny Dvor Museum Complex is one of the four branches of the Sergiev Posad Museum-Reserve. It occupies a solid territory of the former monastery stables on the banks of the White Pond, which is at the corner of the Trinity-Sergius Lavra complex. It houses several permanent exhibitions dedicated to the archeology of the region, the history of the monastery, Russian decorative and applied art of the 18-21 centuries and the world of the Russian village, as well as various exhibitions, including the Museum of Russian Matryoshka, a collection of tiles and views of Russian monasteries. And here it is also interesting to just walk around the territory and imagine how the economic life of the Lavra once proceeded during its heyday.</string>
+    <string name="attract_13_link"><a href="http://www.museum-sp.ru/department/konny-dvor/">museum-sp.ru</a></string>
+    <string name="attract_13_phone_number"><a href="+74965405356">+7 496 540 53 56</a></string>
+    <string name="attract_13_map_link"><a href="https://g.page/SPMZ_Konnii_dvor?share">Show on the map</a></string>
+    <string name="attract_13_work_time">10:00-17:45</string>
+    <!--          attract 14             -->
+    <string name="attract_14_name">Sergiev Posad Museum-Reserve</string>
+    <string name="attract_14_description">The Sergiev Posad Museum-Reserve was founded in 1920 - initially to streamline the monastic collection of ancient Russian art, but since the 30s. the work acquired an anti-religious orientation. The post-war years became a new round in the life of the complex - the collection was restored and even enriched, and the buildings themselves were restored. Nowadays, the museum consists of four separate parts, each of which is dedicated to its own theme.</string>
+    <string name="attract_14_link"><a href="http://www.museum-sp.ru">museum-sp.ru</a></string>
+    <string name="attract_14_phone_number"><a href="+74965405356">+7 496 540 53 56</a></string>
+    <string name="attract_14_map_link"><a href="https://g.page/SPMZ_Glavnii_korpus?share">Show on the map</a></string>
+    <string name="attract_14_work_time">10:00–18:00</string>
+    <!--          attract 15             -->
+    <string name="attract_15_name">House of Pavel Florensky</string>
+    <string name="attract_15_description">In Sergiev Posad (formerly Zagorsk), there are many spiritual places that have become attractions of this city at the same time. One of these objects, attracting the attention of tourists, is the House of Pavel Alexandrovich Florensky on Dvoryanskaya Street (today it is Pionerskaya Street), where the family of a talented scientist, theologian, poet and priest lived. He was called "Russian Leonardo" because of the discoveries and inventions in philosophy, theology, philology, art history, mathematics, physics, ethnography, museology, electrical engineering, geology, ahead of time.</string>
+    <string name="attract_15_phone_number"><a href="+79057678913">+7 905 767 89 13</a></string>
+    <string name="attract_15_map_link"><a href="https://goo.gl/maps/BxvaHQSBvi3Wi5jLA">Show on the map</a></string>
+    <!--          attract 16             -->
+    <string name="attract_16_name">Toy Museum</string>
+    <string name="attract_16_description">One of the most remarkable sights of Sergiev Posad, the Toy Museum is housed in an old red brick mansion that rivals its fabulous Russian splendor with the Trinity-Sergius Lavra opposite. Until 1931, the museum occupied a building in the very center of Moscow, where it acquired the love of a wide variety of visitors - both preschoolers and adults: it is hard to believe that only the Tretyakov Gallery surpassed it in terms of attendance! Having moved to Sergiev Posad, the Toy Museum did not lose its attractiveness at all: in its halls you can see not only Russian folk, New Year and Christmas toys, but also wonder what the young Chinese and Japanese played, how did German dolls differ from Swiss ones and how the most the first Russian nesting doll. A separate pride of the museum is an extensive collection of childrens portraits from the 17th century to the present.</string>
+    <string name="attract_16_link"><a href="http://museumot.info">museumot.info</a></string>
+    <string name="attract_16_phone_number"><a href="+74965404101">+7 496 540 41 01</a></string>
+    <string name="attract_16_map_link"><a href="https://goo.gl/maps/5eCS7g2qjb5KSrMn6">Show on the map</a></string>
+    <string name="attract_16_work_time">10:00–17:00</string>
+    <!--          attract 17             -->
+    <string name="attract_17_name">Museum of Peasant Life</string>
+    <string name="attract_17_description">On one of the streets of Sergiev Posad, a little away from the main attractions, there is a small private museum of peasant life "Once upon a time". You dont even notice him right away among the residential buildings, if not for the sign with the announcement of the purchase and acceptance of antiquities as a gift, and the mosaic figures of good fellows and girls in the courtyard.</string>
+    <string name="attract_17_phone_number"><a href="+74965429996">+7 496 542 99 96</a></string>
+    <string name="attract_17_map_link"><a href="https://goo.gl/maps/o2zTLS7MLnYUdRsF8">Show on the map</a></string>
+    <string name="attract_17_work_time">11:00–19:00</string>
+    <!--          attract 18             -->
+    <string name="attract_18_name">Krasnogorskaya square</string>
+    <string name="attract_18_description">The main walking place for residents of Sergiev Posad and a magnificent observation deck, standing on which you can admire almost a dozen city sights, Krasnogorskaya Square is located between the eastern wall of the Trinity-Sergius Lavra and the main transport artery of the city - Red Army Avenue. This is a real center of the city with all its usual features: bustle and crowd of people, on the one hand, and a living spirit of history clearly in the air, on the other. The wall of the Lavra and the Christmas Church, the Holy Gates and the Drying Tower, New Trading Rows and a picturesque green park, as well as monuments to Sergius of Radonezh, Saints Cyril and Anna and - where without him - to the leader of the world proletariat - these are far from all the attractions of Krasnogorskaya Square.</string>
+    <string name="attract_18_map_link"><a href="https://goo.gl/maps/ib9ho8LQK8uonNi66">Show on the map</a></string>
+    <!--          attract 19             -->
+    <string name="attract_19_name">Route "The Road to the Temple"</string>
+    <string name="attract_19_description">In the summer of 2019, a pedestrian route appeared in Sergiev Posad, connecting the most significant places in the historical center of the city: the embankment, boulevards and quarters with old buildings adjacent to the Trinity-Sergius Lavra. The landscaping work was completed literally in a month, and now walking along the city streets is not only interesting, but also pleasant - the authors of the project made sure that during such a trip it was possible to stop, take a breath and take a picture.</string>
+    <string name="attract_19_map_link"><a href="https://goo.gl/maps/F4N3qFM2QTn5NuVbA">Show on the map</a></string>
+    <!--          attract 20             -->
+    <string name="attract_20_name">Karl Marx street</string>
+    <string name="attract_20_description">The shortest street Sergiev Posad begins literally in front of the entrance to the Trinity-Sergius Lavra - it connects Krasnogorskaya Square with Pionerskaya Street. Before the revolution, Karl Marx Street was called Aleksandrovskaya Street: at its beginning there was a whole complex of buildings for the elderly, homeless people and orphans - the Aleksandro-Mariinsky House of Charity, which belonged to the Lavra. In Soviet times, he was transferred to the orphanage № 1 named. Karl Marx, and in 1924 the whole street was renamed. 6 years later, the House of Charity was taken over by a knitwear factory, which soon became the leading city enterprise.</string>
+    <string name="attract_20_map_link"><a href="https://goo.gl/maps/Jp1ZDTmLYiqqn34W8">Show on the map</a></string>
+    <!--          attract 21             -->
+    <string name="attract_21_name">Park "Skete ponds"</string>
+    <string name="attract_21_description">The main and deservedly beloved by locals and tourists park of Sergiev Posad, "Skete Ponds" is located in a picturesque area between the Chernigov and Gethsemane sketes, in the southeastern part of the city. There are always a lot of visitors here, and there are a lot of reasons for this: adults spend time in leisurely walks along well-groomed paths winding under the canopy of century-old oaks, lindens and ash trees, young people exercise their prowess in a skate park, on a streetball court or in a dorkout space , and the smallest visitors selflessly occupy the swing carousel in the childrens play areas. A romantic rotunda and a wedding bridge, a pier with a pontoon and fishing bridges, sculptural compositions (including the monument to Prishvin) and playgrounds for board games ... - all the interesting things of the Skete Ponds are innumerable! This means that you can come here with the whole family even for the whole day, which we advise you to undertake.</string>
+    <string name="attract_21_map_link"><a href="https://goo.gl/maps/Tgnh7uDxhrxZjXvCA">Show on the map</a></string>
+    <!--          attract 22             -->
+    <string name="attract_22_name">Pafnutievsky garden</string>
+    <string name="attract_22_description">A blessed corner of nature, the Pafnutievsky Garden is widespread just at the southern wall of the Trinity-Sergius Lavra. The exact date of its appearance is unknown, but the legend says that once there were vegetable gardens - onion and cabbage, the harvest of which was fed by the brethren and local residents, and only in the reign of Peter I, simple plantings were replaced by more befitting majestic abode plantations: apple trees and currant bushes of many varieties. In Soviet times, the garden turned into a park of culture and recreation for workers, and only in the early 2000s, work began here to restore its former glory. Thanks to them, today in Pafnutievsky Garden you can leisurely stroll along the paved paths, relax on comfortable benches under the lanterns, admire the manicured lawns and flower beds and enjoy the coolness of the pond. And for the historical landmark in the garden, there is a brick gazebo on the wall tower, from where the Lavra archimandrites once listened to the silence of the garden.</string>
+    <string name="attract_22_map_link"><a href="https://goo.gl/maps/R5KhAYtVrncomohX7">Show on the map</a></string>
+
+
+
+</resources>
