@@ -20,6 +20,7 @@
         <activity android:name=".hotels.GuesthousesAll" />
         <activity android:name=".Events" />
         <activity android:name=".Weather" />
+        <activity android:name=".Tic" />
         <activity android:name=".hotels.Hotel1" />
         <activity android:name=".hotels.Hotel2" />
         <activity android:name=".hotels.Hotel3" />

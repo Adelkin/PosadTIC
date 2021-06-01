@@ -27,6 +27,26 @@
     <string name="view_walking">  Places for walking  </string>
 
 
+    <!-- инфа для тиц -->
+    <string name="tic_name">Tourist Information Center "Hospitable Sergiev Posad"</string>
+    <string name="tic_name_for_dashboard">Tourist assistance</string>
+    <string name="tic_description">The tourist information center "Hospitable Sergiev Posad" is an opportunity to find the most complete information about the tourist sites of the Sergiev Posad urban district in one place. Convenient service for residents and guests of the city who want to spend time interestingly and comfortably in our area. The aim of the TIC is to create and develop a convenient tourist information service aimed at residents and guests of the city, as well as to popularize natural and cultural heritage sites.
+        \nThe main activities of the TIC are:
+        \n- informing residents and guests of the city about tourist routes, attractions and opportunities of the district;
+        \n- accommodation in hotels and hotels;
+        \n- development of the route, based on the individual preferences of the tourist, age and budget;
+        \n- organization of transfer, car rental;
+        \n- providing the tourist with the opportunity to purchase and one-time payment at the TIC of tickets to visit the selected objects;
+        \n- information support and creation of favorable conditions for individual and group tourists during their stay in our district;
+        \n- conducting marketing and statistical research of the tourism market;
+        \n- organizing and conducting promotions and other events aimed at promoting the tourist product;
+        \n- acting as a single tourist operator of the urban district of Sergiev Posad.</string>
+    <string name="tic_phone_number"><a href="tel:+79262083308">+79262083308</a></string>
+    <string name="tic_map_link"><a href="https://goo.gl/maps/2obkmGesEPnM2PRG6">st. Karl Marx, 7</a></string>
+    <string name="tic_work_time">We-Su, 10:00–19:00</string>
+    <string name="tic_link">tic-sp@mail.ru</string>
+
+
     <string name="weather">Weather</string>
 
     <string name="see_more">see more</string>

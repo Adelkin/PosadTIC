@@ -81,6 +81,15 @@ public class Dashboard extends AppCompatActivity {
                 startActivity(intent);
             }
         });
+        // кнопка на ТИЦ
+        LinearLayout tic = (LinearLayout )findViewById(R.id.tic_button);
+        tic.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(Dashboard.this, Tic.class);
+                startActivity(intent);
+            }
+        });
 
         // Кнопки на Attractions
         LinearLayout attract0 = (LinearLayout )findViewById(R.id.attract_0);

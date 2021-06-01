@@ -104,7 +104,7 @@
                                     android:layout_width="wrap_content"
                                     android:layout_height="wrap_content"
                                     android:text="@string/attract_0_name"
-                                    android:textSize="18sp"
+                                    android:textSize="20sp"
                                     android:textColor="@color/white"
                                     android:fontFamily="sans-serif"
                                     android:layout_marginLeft="10dp"/>
@@ -739,6 +739,41 @@
                             android:fontFamily="sans-serif"
                             android:includeFontPadding="false"
                             android:text="@string/weather"
+                            android:textColor="@color/white"
+                            android:textSize="20sp"
+                            android:layout_marginLeft="20dp"
+                            android:layout_gravity="center"
+                            />
+                    </LinearLayout>
+                </androidx.cardview.widget.CardView>
+                <androidx.cardview.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    app:cardCornerRadius="10dp"
+                    app:cardElevation="8dp"
+                    app:cardBackgroundColor="@color/blue"
+                    android:layout_marginTop="20dp"
+                    >
+                    <LinearLayout
+                        android:id="@+id/tic_button"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="horizontal"
+                        android:clickable="true"
+                        >
+                        <ImageView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:src="@drawable/ic_help"
+                            android:layout_gravity="center"
+                            android:layout_marginLeft="10dp"
+                            />
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:fontFamily="sans-serif"
+                            android:includeFontPadding="false"
+                            android:text="@string/tic_name_for_dashboard"
                             android:textColor="@color/white"
                             android:textSize="20sp"
                             android:layout_marginLeft="20dp"
